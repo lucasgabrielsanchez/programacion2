@@ -1,0 +1,25 @@
+C:\Users\alumno\Desktop\Sanchez.Lucas\Sanchez.Lucas.Ejer1\bin\Debug\Sanchez.Lucas.Ejer1.exe.config
+C:\Users\alumno\Desktop\Sanchez.Lucas\Sanchez.Lucas.Ejer1\bin\Debug\Sanchez.Lucas.Ejer1.exe
+C:\Users\alumno\Desktop\Sanchez.Lucas\Sanchez.Lucas.Ejer1\bin\Debug\Sanchez.Lucas.Ejer1.pdb
+C:\Users\alumno\Desktop\Sanchez.Lucas\Sanchez.Lucas.Ejer1\obj\Debug\Sanchez.Lucas.Ejer1.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Sanchez.Lucas\Sanchez.Lucas.Ejer1\obj\Debug\Sanchez.Lucas.Ejer1.exe
+C:\Users\alumno\Desktop\Sanchez.Lucas\Sanchez.Lucas.Ejer1\obj\Debug\Sanchez.Lucas.Ejer1.pdb
+E:\Progamacion2Clase2\Sanchez.Lucas\Sanchez.Lucas.Ejer1\bin\Debug\Sanchez.Lucas.Ejer1.exe.config
+E:\Progamacion2Clase2\Sanchez.Lucas\Sanchez.Lucas.Ejer1\obj\Debug\Sanchez.Lucas.Ejer1.exe
+E:\Progamacion2Clase2\Sanchez.Lucas\Sanchez.Lucas.Ejer1\obj\Debug\Sanchez.Lucas.Ejer1.pdb
+E:\Progamacion2Clase2\Sanchez.Lucas\Sanchez.Lucas.Ejer1\bin\Debug\Sanchez.Lucas.Ejer1.exe
+E:\Progamacion2Clase2\Sanchez.Lucas\Sanchez.Lucas.Ejer1\bin\Debug\Sanchez.Lucas.Ejer1.pdb
+E:\Progamacion2Clase2\Sanchez.Lucas\Sanchez.Lucas.Ejer1\obj\Debug\Sanchez.Lucas.Ejer1.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\C#\Progamacion2Clase2\Sanchez.Lucas\Sanchez.Lucas.Ejer1\bin\Debug\Sanchez.Lucas.Ejer1.exe.config
+C:\Users\Lucas\Desktop\C#\Progamacion2Clase2\Sanchez.Lucas\Sanchez.Lucas.Ejer1\obj\Debug\Sanchez.Lucas.Ejer1.exe
+C:\Users\Lucas\Desktop\C#\Progamacion2Clase2\Sanchez.Lucas\Sanchez.Lucas.Ejer1\obj\Debug\Sanchez.Lucas.Ejer1.pdb
+C:\Users\Lucas\Desktop\C#\Progamacion2Clase2\Sanchez.Lucas\Sanchez.Lucas.Ejer1\bin\Debug\Sanchez.Lucas.Ejer1.exe
+C:\Users\Lucas\Desktop\C#\Progamacion2Clase2\Sanchez.Lucas\Sanchez.Lucas.Ejer1\bin\Debug\Sanchez.Lucas.Ejer1.pdb
+C:\Users\Lucas\Desktop\C#\Progamacion2Clase2\Sanchez.Lucas\Sanchez.Lucas.Ejer1\bin\Debug\Sanchez.Lucas.Ejer1.exe.CodeAnalysisLog.xml
+C:\Users\Lucas\Desktop\C#\Progamacion2Clase2\Sanchez.Lucas\Sanchez.Lucas.Ejer1\bin\Debug\Sanchez.Lucas.Ejer1.exe.lastcodeanalysissucceeded
+C:\Users\Isabel\Desktop\Archivos C#\C#\Progamacion2Clase2\Sanchez.Lucas\Sanchez.Lucas.Ejer1\bin\Debug\Sanchez.Lucas.Ejer1.exe.config
+C:\Users\Isabel\Desktop\Archivos C#\C#\Progamacion2Clase2\Sanchez.Lucas\Sanchez.Lucas.Ejer1\obj\Debug\Sanchez.Lucas.Ejer1.exe
+C:\Users\Isabel\Desktop\Archivos C#\C#\Progamacion2Clase2\Sanchez.Lucas\Sanchez.Lucas.Ejer1\obj\Debug\Sanchez.Lucas.Ejer1.pdb
+C:\Users\Isabel\Desktop\Archivos C#\C#\Progamacion2Clase2\Sanchez.Lucas\Sanchez.Lucas.Ejer1\bin\Debug\Sanchez.Lucas.Ejer1.exe
+C:\Users\Isabel\Desktop\Archivos C#\C#\Progamacion2Clase2\Sanchez.Lucas\Sanchez.Lucas.Ejer1\bin\Debug\Sanchez.Lucas.Ejer1.pdb
+C:\Users\Isabel\Desktop\Archivos C#\C#\Progamacion2Clase2\Sanchez.Lucas\Sanchez.Lucas.Ejer1\obj\Debug\Sanchez.Lucas.Ejer1.csprojResolveAssemblyReference.cache

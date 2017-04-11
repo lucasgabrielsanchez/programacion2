@@ -1,0 +1,5 @@
+C:\Users\Isabel\Desktop\Archivos C#\C#\Progamacion2Clase2\Sanchez.Lucas\Ejer2\bin\Debug\Ejer2.exe.config
+C:\Users\Isabel\Desktop\Archivos C#\C#\Progamacion2Clase2\Sanchez.Lucas\Ejer2\obj\Debug\Ejer2.exe
+C:\Users\Isabel\Desktop\Archivos C#\C#\Progamacion2Clase2\Sanchez.Lucas\Ejer2\obj\Debug\Ejer2.pdb
+C:\Users\Isabel\Desktop\Archivos C#\C#\Progamacion2Clase2\Sanchez.Lucas\Ejer2\bin\Debug\Ejer2.exe
+C:\Users\Isabel\Desktop\Archivos C#\C#\Progamacion2Clase2\Sanchez.Lucas\Ejer2\bin\Debug\Ejer2.pdb

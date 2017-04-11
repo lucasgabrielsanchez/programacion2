@@ -1,0 +1,39 @@
+C:\Users\alumno\Desktop\Sanchez.Lucas\Clase03\bin\Debug\Clase03.exe.config
+C:\Users\alumno\Desktop\Sanchez.Lucas\Clase03\bin\Debug\Clase03.exe
+C:\Users\alumno\Desktop\Sanchez.Lucas\Clase03\bin\Debug\Clase03.pdb
+C:\Users\alumno\Desktop\Sanchez.Lucas\Clase03\obj\Debug\Clase03.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Sanchez.Lucas\Clase03\obj\Debug\Clase03.exe
+C:\Users\alumno\Desktop\Sanchez.Lucas\Clase03\obj\Debug\Clase03.pdb
+C:\Users\Isabel\Desktop\Archivos C#\Progamacion 2\Sanchez.Lucas\Clase 3\bin\Debug\Clase03.exe.config
+C:\Users\Isabel\Desktop\Archivos C#\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.exe
+C:\Users\Isabel\Desktop\Archivos C#\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.pdb
+C:\Users\Isabel\Desktop\Archivos C#\Progamacion 2\Sanchez.Lucas\Clase 3\bin\Debug\Clase03.exe
+C:\Users\Isabel\Desktop\Archivos C#\Progamacion 2\Sanchez.Lucas\Clase 3\bin\Debug\Clase03.pdb
+C:\Users\Isabel\Desktop\Archivos C#\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.csprojResolveAssemblyReference.cache
+E:\Progamacion 2\Sanchez.Lucas\Clase 3\bin\Debug\Clase03.exe.config
+E:\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.exe
+E:\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.pdb
+D:\Progamacion 2\Sanchez.Lucas\Clase 3\bin\Debug\Clase03.exe.config
+D:\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.exe
+D:\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.pdb
+D:\Progamacion 2\Sanchez.Lucas\Clase 3\bin\Debug\Clase03.exe
+D:\Progamacion 2\Sanchez.Lucas\Clase 3\bin\Debug\Clase03.pdb
+D:\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.csprojResolveAssemblyReference.cache
+F:\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\Clase 3\bin\Debug\Clase03.exe.config
+F:\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.exe
+F:\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.pdb
+F:\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.csprojResolveAssemblyReference.cache
+F:\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\Clase 3\bin\Debug\Clase03.exe
+F:\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\Clase 3\bin\Debug\Clase03.pdb
+C:\Users\alumno\Desktop\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\Clase 3\bin\Debug\Clase03.exe.config
+C:\Users\alumno\Desktop\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.exe
+C:\Users\alumno\Desktop\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.pdb
+C:\Users\alumno\Desktop\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\Clase 3\bin\Debug\Clase03.exe
+C:\Users\alumno\Desktop\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\Clase 3\bin\Debug\Clase03.pdb
+C:\Users\alumno\Desktop\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Clase 3\bin\Debug\Clase03.exe.config
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.exe
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.pdb
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Clase 3\bin\Debug\Clase03.exe
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Clase 3\bin\Debug\Clase03.pdb
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.csprojResolveAssemblyReference.cache

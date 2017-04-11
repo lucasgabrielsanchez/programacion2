@@ -1,0 +1,8 @@
+D:\Progamacion 2\Sanchez.Lucas\Entidades\bin\Debug\Entidades.dll
+D:\Progamacion 2\Sanchez.Lucas\Entidades\bin\Debug\Entidades.pdb
+D:\Progamacion 2\Sanchez.Lucas\Entidades\obj\Debug\Entidades.dll
+D:\Progamacion 2\Sanchez.Lucas\Entidades\obj\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Entidades\obj\Debug\Entidades.pdb

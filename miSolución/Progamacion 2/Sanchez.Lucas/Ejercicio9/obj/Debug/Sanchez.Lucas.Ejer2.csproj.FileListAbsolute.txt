@@ -1,0 +1,13 @@
+C:\Users\alumno\Desktop\Sanchez.Lucas\Ejer2\bin\Debug\Ejer2.exe.config
+C:\Users\alumno\Desktop\Sanchez.Lucas\Ejer2\bin\Debug\Ejer2.exe
+C:\Users\alumno\Desktop\Sanchez.Lucas\Ejer2\bin\Debug\Ejer2.pdb
+C:\Users\alumno\Desktop\Sanchez.Lucas\Ejer2\obj\Debug\Ejer2.exe
+C:\Users\alumno\Desktop\Sanchez.Lucas\Ejer2\obj\Debug\Ejer2.pdb
+C:\Users\alumno\Desktop\Sanchez.Lucas\Ejer2\bin\Debug\Ejer2.exe.CodeAnalysisLog.xml
+C:\Users\alumno\Desktop\Sanchez.Lucas\Ejer2\bin\Debug\Ejer2.exe.lastcodeanalysissucceeded
+C:\Users\Lucas\Desktop\C#\Progamacion2Clase2\Sanchez.Lucas\Ejer2\bin\Debug\Ejer2.exe.config
+C:\Users\Lucas\Desktop\C#\Progamacion2Clase2\Sanchez.Lucas\Ejer2\bin\Debug\Ejer2.exe
+C:\Users\Lucas\Desktop\C#\Progamacion2Clase2\Sanchez.Lucas\Ejer2\bin\Debug\Ejer2.pdb
+C:\Users\Lucas\Desktop\C#\Progamacion2Clase2\Sanchez.Lucas\Ejer2\obj\Debug\Ejer2.exe
+C:\Users\Lucas\Desktop\C#\Progamacion2Clase2\Sanchez.Lucas\Ejer2\obj\Debug\Ejer2.pdb
+C:\Users\Lucas\Desktop\C#\Progamacion2Clase2\Sanchez.Lucas\Ejer2\obj\Debug\Sanchez.Lucas.Ejer2.csprojResolveAssemblyReference.cache
