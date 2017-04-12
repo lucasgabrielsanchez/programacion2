@@ -1,0 +1,16 @@
+F:\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\TestLibreria\bin\Debug\TestLibreria.exe.config
+F:\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\TestLibreria\bin\Debug\TestLibreria.exe
+F:\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\TestLibreria\bin\Debug\TestLibreria.pdb
+F:\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\TestLibreria\bin\Debug\Entidades.dll
+F:\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\TestLibreria\bin\Debug\Entidades.pdb
+F:\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\TestLibreria\obj\Debug\TestLibreria.csprojResolveAssemblyReference.cache
+F:\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\TestLibreria\obj\Debug\TestLibreria.exe
+F:\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\TestLibreria\obj\Debug\TestLibreria.pdb
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\TestLibreria\bin\Debug\TestLibreria.exe.config
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\TestLibreria\bin\Debug\TestLibreria.exe
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\TestLibreria\bin\Debug\TestLibreria.pdb
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\TestLibreria\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\TestLibreria\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\TestLibreria\obj\Debug\TestLibreria.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\TestLibreria\obj\Debug\TestLibreria.exe
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\TestLibreria\obj\Debug\TestLibreria.pdb
