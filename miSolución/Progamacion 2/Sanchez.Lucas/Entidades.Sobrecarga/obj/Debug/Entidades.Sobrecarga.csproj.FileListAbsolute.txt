@@ -18,3 +18,13 @@ C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Entidades.S
 C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\obj\Debug\Entidades.Sobrecarga.csprojResolveAssemblyReference.cache
 C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\obj\Debug\Entidades.Sobrecarga.dll
 C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\obj\Debug\Entidades.Sobrecarga.pdb
+C:\Users\Lucas\Desktop\C#\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\bin\Debug\Entidades.Sobrecarga.dll
+C:\Users\Lucas\Desktop\C#\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\bin\Debug\Entidades.Sobrecarga.pdb
+C:\Users\Lucas\Desktop\C#\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\obj\Debug\Entidades.Sobrecarga.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\C#\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\obj\Debug\Entidades.Sobrecarga.dll
+C:\Users\Lucas\Desktop\C#\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\obj\Debug\Entidades.Sobrecarga.pdb
+C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\bin\Debug\Entidades.Sobrecarga.dll
+C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\bin\Debug\Entidades.Sobrecarga.pdb
+C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\obj\Debug\Entidades.Sobrecarga.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\obj\Debug\Entidades.Sobrecarga.dll
+C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\obj\Debug\Entidades.Sobrecarga.pdb

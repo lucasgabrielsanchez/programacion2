@@ -11,12 +11,20 @@ namespace Entidades.Sobrecarga
         //Atributos
         private ConsoleColor color;
         private ETipo tipo;
+        public static int numeroPrueba;
 
         //Constructores sobrecargados
         public Tinta()
         {
             this.color = ConsoleColor.Blue;
             this.tipo = ETipo.Comun;
+        }
+
+        static Tinta()
+        {
+            Tinta.numeroPrueba = 5; //testeando el uso de un atributo estático, no se pide en el ejercicio, en el main también se uitiliza el atributo.
+                                    //Este constructor hace que ni bien se ejecute el main, se inicialize el atributo estático en 5.
+                                    //Nótese que un constructor estático lleva la palabra reservada "static".
         }
 
         public Tinta(ConsoleColor a) :this()

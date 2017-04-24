@@ -16,3 +16,9 @@ C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Ejercicio9\
 C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Ejercicio9\obj\Debug\Ejercicio9.csprojResolveAssemblyReference.cache
 C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Ejercicio9\obj\Debug\Ejer2.exe
 C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Ejercicio9\obj\Debug\Ejer2.pdb
+C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Ejercicio9\bin\Debug\Ejer2.exe.config
+C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Ejercicio9\bin\Debug\Ejer2.exe
+C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Ejercicio9\bin\Debug\Ejer2.pdb
+C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Ejercicio9\obj\Debug\Ejercicio9.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Ejercicio9\obj\Debug\Ejer2.exe
+C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Ejercicio9\obj\Debug\Ejer2.pdb
