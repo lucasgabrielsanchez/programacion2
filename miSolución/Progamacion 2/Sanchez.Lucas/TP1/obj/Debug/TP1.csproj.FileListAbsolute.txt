@@ -13,3 +13,8 @@ C:\Users\alumno\Desktop\REVISAR Y ORDENAR\Clase 05 05-04 +\Progamacion 2\Sanchez
 C:\Users\alumno\Desktop\REVISAR Y ORDENAR\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\TP1\obj\Debug\TP1.csprojResolveAssemblyReference.cache
 C:\Users\alumno\Desktop\REVISAR Y ORDENAR\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\TP1\obj\Debug\TP1.dll
 C:\Users\alumno\Desktop\REVISAR Y ORDENAR\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\TP1\obj\Debug\TP1.pdb
+C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\TP1\bin\Debug\TP1.dll
+C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\TP1\bin\Debug\TP1.pdb
+C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\TP1\obj\Debug\TP1.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\TP1\obj\Debug\TP1.dll
+C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\TP1\obj\Debug\TP1.pdb
