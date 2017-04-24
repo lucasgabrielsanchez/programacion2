@@ -1,0 +1,47 @@
+
+paleta{
+
+(-)_colores : tempera[]
+(-)_cantidadMaximaColores : int
+
+//constructor
+(-)()//inicializa en 5 _colores
+(-)(int)//cantidad max de colores
+
+
+implicit (int) : paleta
+
+
+(-)Mostrar():string
+
+
+explicit (Paleta):string
+
+
+==(paleta, tempera):bool
+*->si tempera esta en paleta-->true //si tempera ya se encuentra en el array de temperas en paleta
+
+
++(paleta, tempera):paleta (para este hay que hacer el de obtener indice primero)
+*->si tempera esta en paleta-->incrementa cantidad en tempera dentro de paleta
+*->si no esta--> agrega la tempera en el primer lugar disponible que tiene el array
+*->si no hay lugar no hago nada.
+
+
+-(paleta, tempera):paleta
+*->si tempera esta en paleta->decrementa cantidad(siempre y cuando la resta dá un número positivo, sino se pone en null), sino
+esta en la paleta, no hago nada.
+*)si cantidad menor o igual a cero, elimina la tempera (null)
+
++(paleta, paleta):paleta
+*->genera una paleta con los colores de ambas paletas.
+*)si temperas son iguales-->suma cantidades
+
+
+//obtenerIndice + 1overload
+*)obtenerIndice():int //corresponde al indice del primer elemento nulo(libre)
+*-> retorna el indice del primer lugar disponible (null) o valor neg. si no hay lugar
+*)obtenerIndice(Tempera):int
+*->retorna el indice donde se encuentra la tempera o valor neg. si no la encuentra
+
+}

@@ -1,0 +1,2 @@
+Pasar todo el trabajo de Tempera y Paleta, en vez de en Arrays, en alguna coleccion Genérica.
+mantener las clases pero el array ahora será una colección.
