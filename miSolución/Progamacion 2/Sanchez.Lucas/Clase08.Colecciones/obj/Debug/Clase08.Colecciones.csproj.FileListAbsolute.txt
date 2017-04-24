@@ -1,0 +1,10 @@
+C:\Users\alumno\Desktop\Clase 06 13-04 trabajando 2 y clase 07 20-04\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\bin\Debug\Clase08.Colecciones.exe.config
+C:\Users\alumno\Desktop\Clase 06 13-04 trabajando 2 y clase 07 20-04\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\bin\Debug\Clase08.Colecciones.exe
+C:\Users\alumno\Desktop\Clase 06 13-04 trabajando 2 y clase 07 20-04\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\bin\Debug\Clase08.Colecciones.pdb
+C:\Users\alumno\Desktop\Clase 06 13-04 trabajando 2 y clase 07 20-04\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\obj\Debug\Clase08.Colecciones.exe
+C:\Users\alumno\Desktop\Clase 06 13-04 trabajando 2 y clase 07 20-04\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\obj\Debug\Clase08.Colecciones.pdb
+D:\Clase 06 13-04 trabajando 2 y clase 07 20-04\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\bin\Debug\Clase08.Colecciones.exe.config
+D:\Clase 06 13-04 trabajando 2 y clase 07 20-04\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\obj\Debug\Clase08.Colecciones.exe
+D:\Clase 06 13-04 trabajando 2 y clase 07 20-04\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\obj\Debug\Clase08.Colecciones.pdb
+D:\Clase 06 13-04 trabajando 2 y clase 07 20-04\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\bin\Debug\Clase08.Colecciones.exe
+D:\Clase 06 13-04 trabajando 2 y clase 07 20-04\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\bin\Debug\Clase08.Colecciones.pdb

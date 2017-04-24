@@ -3,3 +3,13 @@ C:\Users\Lucas\Desktop\C#\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Clase06.Ent
 C:\Users\Lucas\Desktop\C#\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\obj\Debug\Clase06.Entidad.csprojResolveAssemblyReference.cache
 C:\Users\Lucas\Desktop\C#\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\obj\Debug\Clase06.Entidad.dll
 C:\Users\Lucas\Desktop\C#\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\obj\Debug\Clase06.Entidad.pdb
+C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\bin\Debug\Clase06.Entidad.dll
+C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\bin\Debug\Clase06.Entidad.pdb
+C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\obj\Debug\Clase06.Entidad.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\obj\Debug\Clase06.Entidad.dll
+C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\obj\Debug\Clase06.Entidad.pdb
+C:\Users\alumno\Desktop\Clase 06 13-04 trabajando 2 y clase 07 20-04\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\bin\Debug\Clase06.Entidad.dll
+C:\Users\alumno\Desktop\Clase 06 13-04 trabajando 2 y clase 07 20-04\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\bin\Debug\Clase06.Entidad.pdb
+C:\Users\alumno\Desktop\Clase 06 13-04 trabajando 2 y clase 07 20-04\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\obj\Debug\Clase06.Entidad.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase 06 13-04 trabajando 2 y clase 07 20-04\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\obj\Debug\Clase06.Entidad.dll
+C:\Users\alumno\Desktop\Clase 06 13-04 trabajando 2 y clase 07 20-04\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\obj\Debug\Clase06.Entidad.pdb

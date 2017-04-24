@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Clase06.Entidad
+namespace Clase08.Colecciones
 {
     public class Tempera
     {
