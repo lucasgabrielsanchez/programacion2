@@ -51,3 +51,6 @@ C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\TrabajoPracti
 C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.csproj.GenerateResource.Cache
 C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.exe
 C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.pdb
+C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TrabajoPractico1WindowsForm.exe.config
+C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.exe
+C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.pdb

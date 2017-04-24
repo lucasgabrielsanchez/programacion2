@@ -26,7 +26,6 @@ namespace Clase06.Entidad.Consola
 
             Paleta asd = new Paleta(4);
 
-            Console.WriteLine(asd.Mostrar());
 
             Console.ReadKey();
 

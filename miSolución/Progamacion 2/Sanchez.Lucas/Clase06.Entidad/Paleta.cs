@@ -11,8 +11,7 @@ namespace Clase06.Entidad
         private Tempera[] _colores;
         private int _cantidadMaximaColores;
 
-        private Paleta()
-            : this(5)
+        private Paleta() : this(5)
         {
 
         }
@@ -62,7 +61,7 @@ namespace Clase06.Entidad
         {
             Boolean res = false;
 
-            for (int i = 0; i < p._colores.GetLength(0); i++)
+            for (int i = 0; i < p._colores.Count(); i++)
             {
                 if (p._colores[i] == t)
                 {
@@ -83,7 +82,7 @@ namespace Clase06.Entidad
         {
             int res = -1;
 
-            for (int i = 0; i < this._colores.GetLength(0); i++)
+            for (int i = 0; i < this._colores.Count(); i++)
             {
                 if (this._colores[i] == null)
                 {
@@ -99,7 +98,7 @@ namespace Clase06.Entidad
         {
             int ret = -1;
 
-            for (int i = 0; i < this._colores.GetLength(0); i++)
+            for (int i = 0; i < this._colores.Count(); i++)
             {
                 if (this._colores[i] == t)
                 {
@@ -117,7 +116,7 @@ namespace Clase06.Entidad
             {
                 p._colores[p.obtenerIndice(t)] += t; //es lo mismo que p._colores[p.obtenerIndice(t)] = p._colores[p.obtenerIndice(t)] + t
             }
-            else if (p.obtenerIndice() != -1)
+            else if (p.obtenerIndice() != -1) //si t no esta en p, t se guarda en el primer lugar disponible de p, si no hay lugar, no entra al if y no hace nada
             {
                 p._colores[p.obtenerIndice()] = t;
 
@@ -130,12 +129,12 @@ namespace Clase06.Entidad
         {
             int aux = 0;
 
-            for (int i = 0; i < p._colores.GetLength(0); i++)
+            for (int i = 0; i < p._colores.Count(); i++)
             {
                 
                 if (p._colores[i] == t)  
                 {
-                    aux = p._colores[i] += -t;
+                    aux = p._colores[i] += -t; //sumar la tempera negada es como restar la tempera
                 }
 
                 if (aux <= 0)
@@ -146,6 +145,24 @@ namespace Clase06.Entidad
 
             return p;
             
+        }
+
+        public static Paleta operator +(Paleta p, Paleta pa)
+        {
+            for (int i = 0; i < p._colores.Count(); i++)
+            {
+                for (int j = 0; j < pa._colores.Count(); j++)
+                {
+                    if (p._colores[i]==pa._colores[j])
+                    {
+                        p += pa._colores[i]; 
+                    }
+                }
+                
+            }
+
+            return p;
+           
         }
 
 
