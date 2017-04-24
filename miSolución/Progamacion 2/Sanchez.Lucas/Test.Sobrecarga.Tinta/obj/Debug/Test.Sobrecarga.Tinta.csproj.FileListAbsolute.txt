@@ -1,0 +1,32 @@
+C:\Users\alumno\Desktop\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Test.Sobrecarga.Tinta.exe.config
+C:\Users\alumno\Desktop\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Test.Sobrecarga.Tinta.exe
+C:\Users\alumno\Desktop\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Test.Sobrecarga.Tinta.pdb
+C:\Users\alumno\Desktop\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Entidades.Sobrecarga.dll
+C:\Users\alumno\Desktop\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Entidades.Sobrecarga.pdb
+C:\Users\alumno\Desktop\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.Tinta.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.Tinta.exe
+C:\Users\alumno\Desktop\Clase 04 30-03\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.Tinta.pdb
+D:\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Test.Sobrecarga.Tinta.exe.config
+D:\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.Tinta.exe
+D:\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.Tinta.pdb
+D:\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.Tinta.csprojResolveAssemblyReference.cache
+D:\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Test.Sobrecarga.Tinta.exe
+D:\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Test.Sobrecarga.Tinta.pdb
+D:\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Entidades.Sobrecarga.dll
+D:\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Entidades.Sobrecarga.pdb
+C:\Users\Isabel\Desktop\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Test.Sobrecarga.Tinta.exe.config
+C:\Users\Isabel\Desktop\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.Tinta.exe
+C:\Users\Isabel\Desktop\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.Tinta.pdb
+C:\Users\Isabel\Desktop\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Test.Sobrecarga.Tinta.exe
+C:\Users\Isabel\Desktop\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Test.Sobrecarga.Tinta.pdb
+C:\Users\Isabel\Desktop\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Entidades.Sobrecarga.dll
+C:\Users\Isabel\Desktop\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Entidades.Sobrecarga.pdb
+C:\Users\Isabel\Desktop\Clase 05 05-04\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.Tinta.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Test.Sobrecarga.Tinta.exe.config
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.Tinta.exe
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.Tinta.pdb
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Test.Sobrecarga.Tinta.exe
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Test.Sobrecarga.Tinta.pdb
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Entidades.Sobrecarga.dll
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Entidades.Sobrecarga.pdb
+C:\Users\alumno\Desktop\Clase 05 05-04 +\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.Tinta.csprojResolveAssemblyReference.cache
