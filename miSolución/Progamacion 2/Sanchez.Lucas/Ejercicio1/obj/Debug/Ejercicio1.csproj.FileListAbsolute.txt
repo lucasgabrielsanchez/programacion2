@@ -29,3 +29,9 @@ C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Ejercicio1\bi
 C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
 C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Ejercicio1\obj\Debug\Sanchez.Lucas.Ejer1.exe
 C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Ejercicio1\obj\Debug\Sanchez.Lucas.Ejer1.pdb
+C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\bin\Debug\Sanchez.Lucas.Ejer1.exe.config
+C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\bin\Debug\Sanchez.Lucas.Ejer1.exe
+C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\bin\Debug\Sanchez.Lucas.Ejer1.pdb
+C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\obj\Debug\Sanchez.Lucas.Ejer1.exe
+C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\obj\Debug\Sanchez.Lucas.Ejer1.pdb

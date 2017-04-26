@@ -63,7 +63,7 @@ namespace Clase06.Entidad
 
             for (int i = 0; i < p._colores.Count(); i++)
             {
-                if (p._colores[i] == t)
+                if (p._colores.GetValue(i) == t)
                 {
                     res = true;
                 }
@@ -84,7 +84,7 @@ namespace Clase06.Entidad
 
             for (int i = 0; i < this._colores.Count(); i++)
             {
-                if (this._colores[i] == null)
+                if (this._colores.GetValue(i) == null)
                 {
                     res = i;
                     break; //sino va a seguir iterando y devolviendo un índice erróneo.
@@ -119,8 +119,7 @@ namespace Clase06.Entidad
             else if (p.obtenerIndice() != -1) //si t no esta en p, t se guarda en el primer lugar disponible de p, si no hay lugar, no entra al if y no hace nada
             {
                 p._colores[p.obtenerIndice()] = t;
-
-            }
+             }
 
             return p;
         }
@@ -149,19 +148,21 @@ namespace Clase06.Entidad
 
         public static Paleta operator +(Paleta p, Paleta pa)
         {
+            Paleta pAux = new Paleta(p._colores.Count() + pa._colores.Count());
+
             for (int i = 0; i < p._colores.Count(); i++)
             {
                 for (int j = 0; j < pa._colores.Count(); j++)
                 {
-                    if (p._colores[i]==pa._colores[j])
+                    if (p._colores.GetValue(i)==pa._colores.GetValue(j))
                     {
-                        p += pa._colores[i]; 
+                        pAux += pa._colores[i]; 
                     }
                 }
                 
             }
 
-            return p;
+            return pAux;
            
         }
 

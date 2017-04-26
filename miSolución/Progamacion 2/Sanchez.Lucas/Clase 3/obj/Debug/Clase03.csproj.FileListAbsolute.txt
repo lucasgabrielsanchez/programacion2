@@ -43,3 +43,9 @@ C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Clase 3\bin\D
 C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.csprojResolveAssemblyReference.cache
 C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.exe
 C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.pdb
+C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Clase 3\bin\Debug\Clase03.exe.config
+C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Clase 3\bin\Debug\Clase03.exe
+C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Clase 3\bin\Debug\Clase03.pdb
+C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.exe
+C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.pdb

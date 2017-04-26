@@ -34,16 +34,16 @@ namespace Clase06.Entidad
         }
 
         //sobrecargas:
-        public static Boolean operator ==(Tempera t1, Tempera t2)
+        public static Boolean operator == (Tempera t1, Tempera t2)
         {
-            if ((t1._marca == t2._marca) & (t1._color == t2._color))
+            if ((t1._marca == t2._marca) && (t1._color == t2._color))
                 return true;
             else
                 return false;
 
         }
 
-        public static Boolean operator !=(Tempera t1, Tempera t2)
+        public static Boolean operator != (Tempera t1, Tempera t2)
         {
             return !(t1 == t2);
         }

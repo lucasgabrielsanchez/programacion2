@@ -22,3 +22,9 @@ C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Ejercicio9\bi
 C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Ejercicio9\obj\Debug\Ejercicio9.csprojResolveAssemblyReference.cache
 C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Ejercicio9\obj\Debug\Ejer2.exe
 C:\Users\alumno\Desktop\Clase 06 13-04\Progamacion 2\Sanchez.Lucas\Ejercicio9\obj\Debug\Ejer2.pdb
+C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\bin\Debug\Ejer2.exe.config
+C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\bin\Debug\Ejer2.exe
+C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\bin\Debug\Ejer2.pdb
+C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\obj\Debug\Ejercicio9.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\obj\Debug\Ejer2.exe
+C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\obj\Debug\Ejer2.pdb
