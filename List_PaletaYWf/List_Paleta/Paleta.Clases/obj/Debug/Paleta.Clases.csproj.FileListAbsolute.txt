@@ -1,0 +1,10 @@
+c:\users\sabrina\documents\visual studio 2012\Projects\List_Paleta\Paleta.Clases\bin\Debug\Paleta.Clases.dll
+c:\users\sabrina\documents\visual studio 2012\Projects\List_Paleta\Paleta.Clases\bin\Debug\Paleta.Clases.pdb
+c:\users\sabrina\documents\visual studio 2012\Projects\List_Paleta\Paleta.Clases\obj\Debug\Paleta.Clases.csprojResolveAssemblyReference.cache
+c:\users\sabrina\documents\visual studio 2012\Projects\List_Paleta\Paleta.Clases\obj\Debug\Paleta.Clases.dll
+c:\users\sabrina\documents\visual studio 2012\Projects\List_Paleta\Paleta.Clases\obj\Debug\Paleta.Clases.pdb
+E:\List_Paleta\List_Paleta\Paleta.Clases\obj\Debug\Paleta.Clases.csprojResolveAssemblyReference.cache
+E:\List_Paleta\List_Paleta\Paleta.Clases\obj\Debug\Paleta.Clases.dll
+E:\List_Paleta\List_Paleta\Paleta.Clases\obj\Debug\Paleta.Clases.pdb
+E:\List_Paleta\List_Paleta\Paleta.Clases\bin\Debug\Paleta.Clases.dll
+E:\List_Paleta\List_Paleta\Paleta.Clases\bin\Debug\Paleta.Clases.pdb

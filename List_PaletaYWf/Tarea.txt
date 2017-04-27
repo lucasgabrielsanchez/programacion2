@@ -1,0 +1,4 @@
+crear un boton modificar, que marcando un elemento del listbox,
+nos lleve al formulario de alta con los datos de ese elemento cargado en el formulario de alta para poder
+modificar el elemento seleccionado.
+crear un constructor sobrecargado que admita una tempera.

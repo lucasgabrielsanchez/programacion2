@@ -1,0 +1,220 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Saavedra.Nicolas.Clase08.Colecciones
+{
+    public class Paleta
+    {
+        //private Tempera[] _colores;
+        private List<Tempera> _colores;
+        private int _cantidadMaximaColores;
+                
+        private Paleta():this(5)
+        {
+            //this._colores = new tempera[5];
+            //this._cantidadMaximaColores = this._colores.GetLength(0);
+        }
+
+        private Paleta(int cant)
+        {
+            this._colores = new List<Tempera>(cant);
+            this._cantidadMaximaColores = this._colores.Capacity;
+        }
+
+        //El resultado final a la hora de llamarlo sera: 
+            //(Return) = (Parametros)
+        public static implicit operator Paleta(int cant) //Esto resultara en algo como: Paleta p = 8
+        {
+            return new Paleta(cant);
+        }
+                
+        public static explicit operator string(Paleta pal) //Esto resultara en algo como string a = (string) Paleta p
+        {
+            return pal.Mostrar();
+        }
+
+        private string Mostrar()
+        {
+            string text = "";
+            int i = 0;
+
+            foreach (Tempera temp in this._colores)
+            {
+                if(!Object.ReferenceEquals(null,temp))
+                {
+                    text = text + Tempera.Mostrar(temp) + "\n";
+                }
+
+                if(Object.ReferenceEquals(null,temp))
+                {
+                    i++;
+                }
+
+                if(i==this._colores.Count)
+                {
+                    text = text + "No hay temperas en paleta!\n";
+                }
+            }
+
+            text = "Temperas:\n\n"+text + "\nCantidad maxima de colores: " + this._cantidadMaximaColores;
+
+            return text;
+        }
+
+        //->si tempera esta en paleta-->true
+        public static Boolean operator ==(Paleta pal, Tempera temp)
+        {
+            foreach (Tempera t in pal._colores)
+            {
+                if (temp == t)
+                {
+                    return true;
+                }
+            }
+
+            return false;
+        }
+
+        //->si tempera esta en paleta-->false
+        public static Boolean operator !=(Paleta pal, Tempera temp)
+        {
+            foreach (Tempera t in pal._colores)
+            {
+                if (temp == t)
+                {
+                    return false;
+                }
+            }
+
+            return true;
+        }
+
+        //*->si tempera esta en paleta-->incrementa cantidad en tempera
+        //*->si no esta--> agrega la tempera en el primer lugar disponible
+        public static Paleta operator +(Paleta pal, Tempera temp)
+        {
+            if (pal == temp)
+            {
+                for (int i = 0; i < pal._colores.Capacity; i++)
+                {
+                    if (pal._colores[i] == temp)
+                    {
+                        pal._colores[i] = pal._colores[i] + temp;
+                        break;
+                    }
+                }
+            }
+            else
+            {
+                pal._colores.Add(temp);
+            }
+
+            return pal;
+        }
+
+        //*->si tempera esta en paleta->decrementa cantidad
+        //*)si cantidad menor o igual a cero, elimina la tempera (null)
+        public static Paleta operator -(Paleta pal, Tempera temp)
+        {
+            if (pal == temp)
+            {
+                int i = pal.obtenerIndice(temp);
+
+                if (i != -1)
+                {
+                    pal._colores[i] = pal._colores[i] - temp;
+
+                    if (pal._colores[i] <= 0)
+                    {
+                        pal._colores[i] = null;
+                    }
+                }
+            }
+
+            return pal;
+        }
+
+        /// <summary>
+        /// 
+        /// +(paleta, paleta):paleta
+        /// *->genera una paleta con los colores de ambas paletas.
+        /// *)si temperas son iguales-->suma cantidades
+        /// 
+        /// </summary>
+        /// <param name="pal1"></param>
+        /// <param name="pal2"></param>
+        /// <returns></returns>
+        public static Paleta operator +(Paleta pal1, Paleta pal2)
+        {
+            Paleta auxPal1 = pal1;
+            Paleta auxPal2 = pal2;
+
+            for (int i = 0; i < pal1._colores.Count; i++)
+            {
+                for (int j = 0; j < pal2._colores.Count; j++)
+                {
+                    if (pal1._colores[i] == pal2._colores[j])
+                    {
+                        auxPal1._colores[i] = auxPal1._colores[i] + auxPal2._colores[j];
+                        auxPal2._colores[j] = null;
+                        break;
+                    }
+                }
+            }
+
+            for (int i = 0; i < auxPal2._colores.Count; i++)
+            {
+                if (!Object.ReferenceEquals(null,auxPal2._colores[i]))
+                {
+                    auxPal1 = auxPal1 + auxPal2._colores[i];
+                }
+            }
+
+            return auxPal1;
+        }
+
+        /// <summary>
+        /// 
+        /// *)obtenerIndice():int
+        /// *-> retorna el indice del primer lugar disponible (null) o valor neg. si no hay lugar
+        /// 
+        /// </summary>
+        /// <returns></returns>
+        public int obtenerIndice()
+        {
+            for (int i = 0; i < this._colores.Capacity; i++)
+            {
+                if (Object.ReferenceEquals(null,this._colores[i]))
+                {
+                    return i;
+                }
+            }
+
+            return -1;
+        }
+
+        /// <summary>
+        /// 
+        /// *)obtenerIndice(Tempera):int
+        /// *->retorna el indice donde se encuentra la tempera o valor neg. si no la encuentra
+        /// 
+        /// </summary>
+        /// <param name="temp"></param>
+        /// <returns></returns>
+        public int obtenerIndice(Tempera temp)
+        {
+            for (int i = 0; i < this._colores.Capacity; i++)
+            {
+                if (this._colores[i] == temp)
+                {
+                    return i;
+                }
+            }
+
+            return -1;
+        }
+    }
+}

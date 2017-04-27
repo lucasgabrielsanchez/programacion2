@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paletas.Console", "Paletas.Console\Paletas.Console.csproj", "{765E018A-8B06-4114-9865-575FF6A78F0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paleta.Clases", "Paleta.Clases\Paleta.Clases.csproj", "{42914989-75B4-4C41-BE9D-76F6F7FC1C52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperaPaletaWF", "TemperaPaletaWF\TemperaPaletaWF.csproj", "{85D93D4B-573E-4A24-9B27-189AFDEDA119}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{765E018A-8B06-4114-9865-575FF6A78F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765E018A-8B06-4114-9865-575FF6A78F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765E018A-8B06-4114-9865-575FF6A78F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765E018A-8B06-4114-9865-575FF6A78F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42914989-75B4-4C41-BE9D-76F6F7FC1C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42914989-75B4-4C41-BE9D-76F6F7FC1C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42914989-75B4-4C41-BE9D-76F6F7FC1C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42914989-75B4-4C41-BE9D-76F6F7FC1C52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85D93D4B-573E-4A24-9B27-189AFDEDA119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85D93D4B-573E-4A24-9B27-189AFDEDA119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85D93D4B-573E-4A24-9B27-189AFDEDA119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85D93D4B-573E-4A24-9B27-189AFDEDA119}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

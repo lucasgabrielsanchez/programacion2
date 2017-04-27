@@ -1,0 +1,19 @@
+c:\users\sabrina\documents\visual studio 2012\Projects\List_Paleta\Paletas.Console\bin\Debug\Paletas.Console.exe.config
+c:\users\sabrina\documents\visual studio 2012\Projects\List_Paleta\Paletas.Console\bin\Debug\Paletas.Console.exe
+c:\users\sabrina\documents\visual studio 2012\Projects\List_Paleta\Paletas.Console\bin\Debug\Paletas.Console.pdb
+c:\users\sabrina\documents\visual studio 2012\Projects\List_Paleta\Paletas.Console\bin\Debug\Paleta.Clases.dll
+c:\users\sabrina\documents\visual studio 2012\Projects\List_Paleta\Paletas.Console\bin\Debug\Paleta.Clases.pdb
+c:\users\sabrina\documents\visual studio 2012\Projects\List_Paleta\Paletas.Console\obj\Debug\Paletas.Console.csprojResolveAssemblyReference.cache
+c:\users\sabrina\documents\visual studio 2012\Projects\List_Paleta\Paletas.Console\obj\Debug\Paletas.Console.exe
+c:\users\sabrina\documents\visual studio 2012\Projects\List_Paleta\Paletas.Console\obj\Debug\Paletas.Console.pdb
+C:\Users\Sabrina\Documents\Sabrina\Programacion_II_Sabrina.Veiga\Programacion-II-master\List_Paleta\Paletas.Console\bin\Debug\Paletas.Console.exe.config
+C:\Users\Sabrina\Documents\Sabrina\Programacion_II_Sabrina.Veiga\Programacion-II-master\List_Paleta\Paletas.Console\obj\Debug\Paletas.Console.exe
+C:\Users\Sabrina\Documents\Sabrina\Programacion_II_Sabrina.Veiga\Programacion-II-master\List_Paleta\Paletas.Console\obj\Debug\Paletas.Console.pdb
+E:\List_Paleta\List_Paleta\Paletas.Console\bin\Debug\Paletas.Console.exe.config
+E:\List_Paleta\List_Paleta\Paletas.Console\obj\Debug\Paletas.Console.exe
+E:\List_Paleta\List_Paleta\Paletas.Console\obj\Debug\Paletas.Console.pdb
+E:\List_Paleta\List_Paleta\Paletas.Console\bin\Debug\Paletas.Console.exe
+E:\List_Paleta\List_Paleta\Paletas.Console\bin\Debug\Paletas.Console.pdb
+E:\List_Paleta\List_Paleta\Paletas.Console\bin\Debug\Paleta.Clases.dll
+E:\List_Paleta\List_Paleta\Paletas.Console\bin\Debug\Paleta.Clases.pdb
+E:\List_Paleta\List_Paleta\Paletas.Console\obj\Debug\Paletas.Console.csprojResolveAssemblyReference.cache
