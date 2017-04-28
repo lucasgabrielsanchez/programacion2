@@ -33,3 +33,11 @@ C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.PlumaTinta.csprojResolveAssemblyReference.cache
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.Tinta.exe
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.Tinta.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Test.Sobrecarga.Tinta.exe.config
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Test.Sobrecarga.Tinta.exe
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Test.Sobrecarga.Tinta.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Entidades.Sobrecarga.dll
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Entidades.Sobrecarga.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.PlumaTinta.csprojResolveAssemblyReference.cache
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.Tinta.exe
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.Tinta.pdb

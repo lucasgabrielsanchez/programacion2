@@ -13,3 +13,8 @@ C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecci
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\bin\Debug\Clase08.Colecciones.pdb
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\obj\Debug\Clase08.Colecciones.exe
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\obj\Debug\Clase08.Colecciones.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\bin\Debug\Clase08.Colecciones.exe.config
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\bin\Debug\Clase08.Colecciones.exe
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\bin\Debug\Clase08.Colecciones.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\obj\Debug\Clase08.Colecciones.exe
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\obj\Debug\Clase08.Colecciones.pdb

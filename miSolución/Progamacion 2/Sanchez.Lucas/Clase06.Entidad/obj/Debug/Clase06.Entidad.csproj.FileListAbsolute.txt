@@ -18,3 +18,8 @@ C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\obj\Debug\Clase06.Entidad.csprojResolveAssemblyReference.cache
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\obj\Debug\Clase06.Entidad.dll
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\obj\Debug\Clase06.Entidad.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\bin\Debug\Clase06.Entidad.dll
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\bin\Debug\Clase06.Entidad.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\obj\Debug\Clase06.Entidad.csprojResolveAssemblyReference.cache
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\obj\Debug\Clase06.Entidad.dll
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\obj\Debug\Clase06.Entidad.pdb

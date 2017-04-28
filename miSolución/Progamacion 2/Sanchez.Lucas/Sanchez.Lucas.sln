@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase06.Entidad.Consola", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase08.Colecciones", "Clase08.Colecciones\Clase08.Colecciones.csproj", "{D017DB82-93E8-401D-A9A6-FB3F40F6DB0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase10Consola", "Clase10Consola\Clase10Consola.csproj", "{FDAC159A-CD2F-41B7-8FBF-5CC0DA02B230}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +99,10 @@ Global
 		{D017DB82-93E8-401D-A9A6-FB3F40F6DB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D017DB82-93E8-401D-A9A6-FB3F40F6DB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D017DB82-93E8-401D-A9A6-FB3F40F6DB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDAC159A-CD2F-41B7-8FBF-5CC0DA02B230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDAC159A-CD2F-41B7-8FBF-5CC0DA02B230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDAC159A-CD2F-41B7-8FBF-5CC0DA02B230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDAC159A-CD2F-41B7-8FBF-5CC0DA02B230}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

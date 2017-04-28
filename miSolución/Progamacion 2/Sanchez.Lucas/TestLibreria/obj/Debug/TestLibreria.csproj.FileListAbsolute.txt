@@ -30,3 +30,11 @@ C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\bi
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\obj\Debug\TestLibreria.csprojResolveAssemblyReference.cache
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\obj\Debug\TestLibreria.exe
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\obj\Debug\TestLibreria.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\bin\Debug\TestLibreria.exe.config
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\bin\Debug\TestLibreria.exe
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\bin\Debug\TestLibreria.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\bin\Debug\Entidades.dll
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\bin\Debug\Entidades.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\obj\Debug\TestLibreria.csprojResolveAssemblyReference.cache
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\obj\Debug\TestLibreria.exe
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\obj\Debug\TestLibreria.pdb

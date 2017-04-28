@@ -1,0 +1,6 @@
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase10Consola\bin\Debug\Clase10Consola.exe.config
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase10Consola\bin\Debug\Clase10Consola.exe
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase10Consola\bin\Debug\Clase10Consola.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase10Consola\obj\Debug\Clase10Consola.exe
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase10Consola\obj\Debug\Clase10Consola.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase10Consola\obj\Debug\Clase10Consola.csprojResolveAssemblyReference.cache

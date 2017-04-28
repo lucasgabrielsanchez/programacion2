@@ -33,3 +33,8 @@ C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Entidades.Sobre
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\obj\Debug\Entidades.Sobrecarga.csprojResolveAssemblyReference.cache
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\obj\Debug\Entidades.Sobrecarga.dll
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\obj\Debug\Entidades.Sobrecarga.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\bin\Debug\Entidades.Sobrecarga.dll
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\bin\Debug\Entidades.Sobrecarga.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\obj\Debug\Entidades.Sobrecarga.csprojResolveAssemblyReference.cache
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\obj\Debug\Entidades.Sobrecarga.dll
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\obj\Debug\Entidades.Sobrecarga.pdb

@@ -16,3 +16,8 @@ C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Entidades\bin\D
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Entidades\obj\Debug\Entidades.dll
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Entidades\obj\Debug\Entidades.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Entidades\bin\Debug\Entidades.dll
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Entidades\bin\Debug\Entidades.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Entidades\obj\Debug\Entidades.dll
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Entidades\obj\Debug\Entidades.pdb

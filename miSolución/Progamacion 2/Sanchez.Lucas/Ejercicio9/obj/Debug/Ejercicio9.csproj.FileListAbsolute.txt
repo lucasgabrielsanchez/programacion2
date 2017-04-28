@@ -28,3 +28,9 @@ C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\bin\
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\obj\Debug\Ejercicio9.csprojResolveAssemblyReference.cache
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\obj\Debug\Ejer2.exe
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\obj\Debug\Ejer2.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\bin\Debug\Ejer2.exe.config
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\bin\Debug\Ejer2.exe
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\bin\Debug\Ejer2.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\obj\Debug\Ejercicio9.csprojResolveAssemblyReference.cache
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\obj\Debug\Ejer2.exe
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\obj\Debug\Ejer2.pdb

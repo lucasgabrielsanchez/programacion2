@@ -38,3 +38,13 @@ C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\obj\Debug\TestLibreriaWF.csproj.GenerateResource.Cache
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\obj\Debug\TestLibreriaWF.exe
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\obj\Debug\TestLibreriaWF.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\bin\Debug\TestLibreriaWF.exe.config
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\bin\Debug\TestLibreriaWF.exe
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\bin\Debug\TestLibreriaWF.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\bin\Debug\Entidades.dll
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\bin\Debug\Entidades.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\obj\Debug\TestLibreriaWF.csprojResolveAssemblyReference.cache
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\obj\Debug\TestLibreriaWF.Properties.Resources.resources
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\obj\Debug\TestLibreriaWF.csproj.GenerateResource.Cache
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\obj\Debug\TestLibreriaWF.exe
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\obj\Debug\TestLibreriaWF.pdb

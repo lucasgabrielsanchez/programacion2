@@ -25,3 +25,9 @@ C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrec
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\obj\Debug\TesteandoSobrecargas.csprojResolveAssemblyReference.cache
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\obj\Debug\TesteandoSobrecargas.exe
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\obj\Debug\TesteandoSobrecargas.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\bin\Debug\TesteandoSobrecargas.exe.config
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\bin\Debug\TesteandoSobrecargas.exe
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\bin\Debug\TesteandoSobrecargas.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\obj\Debug\TesteandoSobrecargas.csprojResolveAssemblyReference.cache
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\obj\Debug\TesteandoSobrecargas.exe
+D:\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\obj\Debug\TesteandoSobrecargas.pdb

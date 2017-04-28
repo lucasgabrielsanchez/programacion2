@@ -29,3 +29,11 @@ C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad.Consola\obj\Debug\Clase06.Entidad.Consola.csprojResolveAssemblyReference.cache
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad.Consola\obj\Debug\Clase06.Entidad.Consola.exe
 C:\Users\gustavo\Desktop\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad.Consola\obj\Debug\Clase06.Entidad.Consola.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad.Consola\bin\Debug\Clase06.Entidad.Consola.exe.config
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad.Consola\obj\Debug\Clase06.Entidad.Consola.exe
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad.Consola\obj\Debug\Clase06.Entidad.Consola.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad.Consola\bin\Debug\Clase06.Entidad.Consola.exe
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad.Consola\bin\Debug\Clase06.Entidad.Consola.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad.Consola\bin\Debug\Clase06.Entidad.dll
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad.Consola\bin\Debug\Clase06.Entidad.pdb
+D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad.Consola\obj\Debug\Clase06.Entidad.Consola.csprojResolveAssemblyReference.cache
