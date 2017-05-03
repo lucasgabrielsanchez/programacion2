@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\programacion2-master\miSoluci+¦n\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\bin\Debug\Herencia-Vehiculo.dll
+C:\Users\alumno\Desktop\programacion2-master\miSoluci+¦n\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\bin\Debug\Herencia-Vehiculo.pdb
+C:\Users\alumno\Desktop\programacion2-master\miSoluci+¦n\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\obj\Debug\Herencia-Vehiculo-Clases.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\programacion2-master\miSoluci+¦n\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\obj\Debug\Herencia-Vehiculo.dll
+C:\Users\alumno\Desktop\programacion2-master\miSoluci+¦n\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\obj\Debug\Herencia-Vehiculo.pdb

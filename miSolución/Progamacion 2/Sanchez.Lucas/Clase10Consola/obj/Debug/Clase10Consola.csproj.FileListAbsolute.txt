@@ -4,3 +4,9 @@ D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase10Consola\bin\Debug\Clase10Conso
 D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase10Consola\obj\Debug\Clase10Consola.exe
 D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase10Consola\obj\Debug\Clase10Consola.pdb
 D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase10Consola\obj\Debug\Clase10Consola.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\programacion2-master\miSoluci+¦n\Progamacion 2\Sanchez.Lucas\Clase10Consola\bin\Debug\Clase10Consola.exe.config
+C:\Users\alumno\Desktop\programacion2-master\miSoluci+¦n\Progamacion 2\Sanchez.Lucas\Clase10Consola\obj\Debug\Clase10Consola.exe
+C:\Users\alumno\Desktop\programacion2-master\miSoluci+¦n\Progamacion 2\Sanchez.Lucas\Clase10Consola\obj\Debug\Clase10Consola.pdb
+C:\Users\alumno\Desktop\programacion2-master\miSoluci+¦n\Progamacion 2\Sanchez.Lucas\Clase10Consola\bin\Debug\Clase10Consola.exe
+C:\Users\alumno\Desktop\programacion2-master\miSoluci+¦n\Progamacion 2\Sanchez.Lucas\Clase10Consola\bin\Debug\Clase10Consola.pdb
+C:\Users\alumno\Desktop\programacion2-master\miSoluci+¦n\Progamacion 2\Sanchez.Lucas\Clase10Consola\obj\Debug\Clase10Consola.csprojResolveAssemblyReference.cache

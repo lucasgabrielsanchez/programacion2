@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase08.Colecciones", "Clas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase10Consola", "Clase10Consola\Clase10Consola.csproj", "{FDAC159A-CD2F-41B7-8FBF-5CC0DA02B230}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herencia-Vehiculo-Clases", "Herencia-Vehiculo\Herencia-Vehiculo-Clases.csproj", "{F8329304-6E8B-415D-8AC9-AA7BB0C491C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herencia-Vehiculo-Consola", "Herencia-Vehiculo-Consola\Herencia-Vehiculo-Consola.csproj", "{5E24A7F7-7B7B-4D50-9C1E-31F4478E52EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -103,6 +107,14 @@ Global
 		{FDAC159A-CD2F-41B7-8FBF-5CC0DA02B230}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDAC159A-CD2F-41B7-8FBF-5CC0DA02B230}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDAC159A-CD2F-41B7-8FBF-5CC0DA02B230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8329304-6E8B-415D-8AC9-AA7BB0C491C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8329304-6E8B-415D-8AC9-AA7BB0C491C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8329304-6E8B-415D-8AC9-AA7BB0C491C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8329304-6E8B-415D-8AC9-AA7BB0C491C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E24A7F7-7B7B-4D50-9C1E-31F4478E52EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E24A7F7-7B7B-4D50-9C1E-31F4478E52EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E24A7F7-7B7B-4D50-9C1E-31F4478E52EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E24A7F7-7B7B-4D50-9C1E-31F4478E52EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

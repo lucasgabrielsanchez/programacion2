@@ -11,3 +11,6 @@ E:\List_Paleta\List_Paleta\TemperaPaletaWF\obj\Debug\TemperaPaletaWF.exe
 E:\List_Paleta\List_Paleta\TemperaPaletaWF\obj\Debug\TemperaPaletaWF.pdb
 E:\List_Paleta\List_Paleta\TemperaPaletaWF\obj\Debug\TemperaPaletaWF.FrmTempera.resources
 E:\List_Paleta\List_Paleta\TemperaPaletaWF\obj\Debug\TemperaPaletaWF.FrmMostrar.resources
+C:\Users\alumno\Desktop\programacion2-master\List_PaletaYWf\List_Paleta\TemperaPaletaWF\bin\Debug\TemperaPaletaWF.exe.config
+C:\Users\alumno\Desktop\programacion2-master\List_PaletaYWf\List_Paleta\TemperaPaletaWF\obj\Debug\TemperaPaletaWF.exe
+C:\Users\alumno\Desktop\programacion2-master\List_PaletaYWf\List_Paleta\TemperaPaletaWF\obj\Debug\TemperaPaletaWF.pdb
