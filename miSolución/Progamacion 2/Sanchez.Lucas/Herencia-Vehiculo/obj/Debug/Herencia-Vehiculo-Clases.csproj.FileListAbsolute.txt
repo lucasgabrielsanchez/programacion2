@@ -3,3 +3,8 @@ C:\Users\alumno\Desktop\programacion2-master\miSoluci+¦n\Progamacion 2\Sanchez.
 C:\Users\alumno\Desktop\programacion2-master\miSoluci+¦n\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\obj\Debug\Herencia-Vehiculo-Clases.csprojResolveAssemblyReference.cache
 C:\Users\alumno\Desktop\programacion2-master\miSoluci+¦n\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\obj\Debug\Herencia-Vehiculo.dll
 C:\Users\alumno\Desktop\programacion2-master\miSoluci+¦n\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\obj\Debug\Herencia-Vehiculo.pdb
+D:\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\obj\Debug\Herencia-Vehiculo-Clases.csprojResolveAssemblyReference.cache
+D:\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\obj\Debug\Herencia-Vehiculo.dll
+D:\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\obj\Debug\Herencia-Vehiculo.pdb
+D:\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\bin\Debug\Herencia-Vehiculo.dll
+D:\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\bin\Debug\Herencia-Vehiculo.pdb

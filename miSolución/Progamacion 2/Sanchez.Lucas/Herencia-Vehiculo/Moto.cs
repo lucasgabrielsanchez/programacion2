@@ -22,7 +22,7 @@ namespace Herencia_Vehiculo
 
         public string MostrarMoto()
         {
-            return "Moto:\n" + base.Mostrar() + "Cantidad de Asientos: " + this._cantidadAsientos.ToString() + "\n" + "Tara: " + this._tara.ToString() + "\n" + "Cilindrada: " + this._cilindrada.ToString();
+            return "Moto:\n" + base.Mostrar() + "Cantidad de Asientos: " + this._cantidadAsientos.ToString() + "\n" + "Tara: " + this._tara.ToString() + "\n" + "Cilindrada: " + this._cilindrada.ToString() + "\n";
 
         }
 

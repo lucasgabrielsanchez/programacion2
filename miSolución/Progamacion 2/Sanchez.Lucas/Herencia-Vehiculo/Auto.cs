@@ -20,9 +20,9 @@ namespace Herencia_Vehiculo
             this._cilindrada = cilindrada;
         }
         
-        public string MostrarMoto()
+        public string MostrarAuto()
         {
-            return "Auto:\n" + base.Mostrar() + "Cantidad de Asientos: " + this._cantidadAsientos.ToString() + "\n" + "Tara: " + this._tara.ToString() + "\n" + "Cilindrada: " + this._cilindrada.ToString();
+            return "Auto:\n" + base.Mostrar() + "Cantidad de Asientos: " + this._cantidadAsientos.ToString() + "\n" + "Tara: " + this._tara.ToString() + "\n" + "Cilindrada: " + this._cilindrada.ToString() + "\n";
 
         }
     }

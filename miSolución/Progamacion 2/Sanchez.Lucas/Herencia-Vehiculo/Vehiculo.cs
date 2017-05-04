@@ -12,6 +12,7 @@ namespace Herencia_Vehiculo
         protected Byte _cantRuedas;
         protected EMarcas _marca;
 
+
         public string Patente
         {
             get { return this._patente; }
@@ -29,12 +30,12 @@ namespace Herencia_Vehiculo
             this._marca = marca;
         }
 
-        internal string Mostrar()
+        protected string Mostrar()
         {
             return "Patente: " + this._patente + "\n" + "Cantidad de Ruedas: " +  this._cantRuedas.ToString() + "\n" + "Marca: " + this._marca.ToString() + "\n";
         }
 
-        public static bool operator +(Vehiculo v1, Vehiculo v2)
+        public static bool operator ==(Vehiculo v1, Vehiculo v2)
         {
             bool aux = false;
 
@@ -45,5 +46,16 @@ namespace Herencia_Vehiculo
 
             return aux;
         }
+
+        public static bool operator !=(Vehiculo v1, Vehiculo v2)
+        {
+            return !(v1 == v2);
+        }
+
+        
+
+     
+
+        
     }
 }

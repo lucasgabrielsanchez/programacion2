@@ -22,7 +22,7 @@ namespace Herencia_Vehiculo
 
         public string MostrarCamion()
         {
-            return "Camion:\n" + base.Mostrar() + "Cantidad de Asientos: " + this._cantidadAsientos.ToString() + "\n" + "Tara: " + this._tara.ToString() + "\n" + "Cilindrada: " + this._cilindrada.ToString();
+            return "Camion:\n" + base.Mostrar() + "Cantidad de Asientos: " + this._cantidadAsientos.ToString() + "\n" + "Tara: " + this._tara.ToString() + "\n" + "Cilindrada: " + this._cilindrada.ToString() + "\n";
 
         }
     }
