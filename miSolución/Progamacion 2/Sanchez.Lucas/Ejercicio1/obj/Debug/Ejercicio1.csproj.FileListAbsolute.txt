@@ -41,3 +41,9 @@ D:\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\bin\Debug\Sanchez.Lucas.Ej
 D:\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
 D:\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\obj\Debug\Sanchez.Lucas.Ejer1.exe
 D:\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\obj\Debug\Sanchez.Lucas.Ejer1.pdb
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\bin\Debug\Sanchez.Lucas.Ejer1.exe.config
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\bin\Debug\Sanchez.Lucas.Ejer1.exe
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\bin\Debug\Sanchez.Lucas.Ejer1.pdb
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\obj\Debug\Sanchez.Lucas.Ejer1.exe
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\obj\Debug\Sanchez.Lucas.Ejer1.pdb

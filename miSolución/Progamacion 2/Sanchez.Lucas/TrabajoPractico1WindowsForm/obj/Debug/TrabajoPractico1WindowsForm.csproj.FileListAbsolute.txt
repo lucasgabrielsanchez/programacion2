@@ -73,3 +73,14 @@ D:\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug
 D:\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.csproj.GenerateResource.Cache
 D:\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.exe
 D:\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.pdb
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TrabajoPractico1WindowsForm.exe.config
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TrabajoPractico1WindowsForm.exe
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TrabajoPractico1WindowsForm.pdb
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TP1.dll
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TP1.pdb
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.csprojResolveAssemblyReference.cache
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.Form1.resources
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.Properties.Resources.resources
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.csproj.GenerateResource.Cache
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.exe
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.pdb

@@ -28,3 +28,9 @@ D:\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio2\bin\Debug\Ejercicio2.pdb
 D:\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio2\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache
 D:\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio2\obj\Debug\Ejercicio2.exe
 D:\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio2\obj\Debug\Ejercicio2.pdb
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio2\bin\Debug\Ejercicio2.exe
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio2\bin\Debug\Ejercicio2.pdb
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio2\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio2\obj\Debug\Ejercicio2.exe
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio2\obj\Debug\Ejercicio2.pdb

@@ -48,3 +48,13 @@ D:\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\obj\Debug\TestLibreria
 D:\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\obj\Debug\TestLibreriaWF.csproj.GenerateResource.Cache
 D:\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\obj\Debug\TestLibreriaWF.exe
 D:\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\obj\Debug\TestLibreriaWF.pdb
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\bin\Debug\TestLibreriaWF.exe.config
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\bin\Debug\TestLibreriaWF.exe
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\bin\Debug\TestLibreriaWF.pdb
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\bin\Debug\Entidades.dll
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\bin\Debug\Entidades.pdb
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\obj\Debug\TestLibreriaWF.csprojResolveAssemblyReference.cache
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\obj\Debug\TestLibreriaWF.Properties.Resources.resources
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\obj\Debug\TestLibreriaWF.csproj.GenerateResource.Cache
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\obj\Debug\TestLibreriaWF.exe
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreriaWF\obj\Debug\TestLibreriaWF.pdb

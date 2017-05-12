@@ -18,3 +18,8 @@ D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\bin\Debug\Clase08
 D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\bin\Debug\Clase08.Colecciones.pdb
 D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\obj\Debug\Clase08.Colecciones.exe
 D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\obj\Debug\Clase08.Colecciones.pdb
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\bin\Debug\Clase08.Colecciones.exe.config
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\bin\Debug\Clase08.Colecciones.exe
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\bin\Debug\Clase08.Colecciones.pdb
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\obj\Debug\Clase08.Colecciones.exe
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\obj\Debug\Clase08.Colecciones.pdb

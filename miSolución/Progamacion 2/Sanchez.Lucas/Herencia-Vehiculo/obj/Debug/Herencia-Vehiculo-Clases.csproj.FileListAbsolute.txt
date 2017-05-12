@@ -8,3 +8,8 @@ D:\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\obj\D
 D:\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\obj\Debug\Herencia-Vehiculo.pdb
 D:\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\bin\Debug\Herencia-Vehiculo.dll
 D:\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\bin\Debug\Herencia-Vehiculo.pdb
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\bin\Debug\Herencia-Vehiculo.dll
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\bin\Debug\Herencia-Vehiculo.pdb
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\obj\Debug\Herencia-Vehiculo-Clases.csprojResolveAssemblyReference.cache
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\obj\Debug\Herencia-Vehiculo.dll
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\obj\Debug\Herencia-Vehiculo.pdb

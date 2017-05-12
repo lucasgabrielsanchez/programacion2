@@ -23,3 +23,8 @@ D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\bin\Debug\Clase06.Ent
 D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\obj\Debug\Clase06.Entidad.csprojResolveAssemblyReference.cache
 D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\obj\Debug\Clase06.Entidad.dll
 D:\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\obj\Debug\Clase06.Entidad.pdb
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\bin\Debug\Clase06.Entidad.dll
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\bin\Debug\Clase06.Entidad.pdb
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\obj\Debug\Clase06.Entidad.csprojResolveAssemblyReference.cache
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\obj\Debug\Clase06.Entidad.dll
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad\obj\Debug\Clase06.Entidad.pdb

@@ -10,3 +10,9 @@ C:\Users\alumno\Desktop\programacion2-master\miSoluci+¦n\Progamacion 2\Sanchez.
 C:\Users\alumno\Desktop\programacion2-master\miSoluci+¦n\Progamacion 2\Sanchez.Lucas\Clase10Consola\bin\Debug\Clase10Consola.exe
 C:\Users\alumno\Desktop\programacion2-master\miSoluci+¦n\Progamacion 2\Sanchez.Lucas\Clase10Consola\bin\Debug\Clase10Consola.pdb
 C:\Users\alumno\Desktop\programacion2-master\miSoluci+¦n\Progamacion 2\Sanchez.Lucas\Clase10Consola\obj\Debug\Clase10Consola.csprojResolveAssemblyReference.cache
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Clase10Consola\bin\Debug\Clase10Consola.exe.config
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Clase10Consola\bin\Debug\Clase10Consola.exe
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Clase10Consola\bin\Debug\Clase10Consola.pdb
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Clase10Consola\obj\Debug\Clase10Consola.csprojResolveAssemblyReference.cache
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Clase10Consola\obj\Debug\Clase10Consola.exe
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Clase10Consola\obj\Debug\Clase10Consola.pdb

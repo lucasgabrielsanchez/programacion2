@@ -31,3 +31,9 @@ D:\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\bin\Debug\Testea
 D:\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\obj\Debug\TesteandoSobrecargas.csprojResolveAssemblyReference.cache
 D:\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\obj\Debug\TesteandoSobrecargas.exe
 D:\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\obj\Debug\TesteandoSobrecargas.pdb
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\bin\Debug\TesteandoSobrecargas.exe.config
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\bin\Debug\TesteandoSobrecargas.exe
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\bin\Debug\TesteandoSobrecargas.pdb
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\obj\Debug\TesteandoSobrecargas.csprojResolveAssemblyReference.cache
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\obj\Debug\TesteandoSobrecargas.exe
+D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\obj\Debug\TesteandoSobrecargas.pdb

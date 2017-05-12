@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herencia-Vehiculo-Clases", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herencia-Vehiculo-Consola", "Herencia-Vehiculo-Consola\Herencia-Vehiculo-Consola.csproj", "{5E24A7F7-7B7B-4D50-9C1E-31F4478E52EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase12Polimorfismo", "Clase12\Clase12Polimorfismo.csproj", "{623911F0-8533-47A3-9476-2E9755F3AF7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClase12Polimorfismo", "TestClase12\TestClase12Polimorfismo.csproj", "{649B8E97-53EF-4AE1-AC4B-4AF9822312C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -115,6 +119,14 @@ Global
 		{5E24A7F7-7B7B-4D50-9C1E-31F4478E52EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E24A7F7-7B7B-4D50-9C1E-31F4478E52EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E24A7F7-7B7B-4D50-9C1E-31F4478E52EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{623911F0-8533-47A3-9476-2E9755F3AF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623911F0-8533-47A3-9476-2E9755F3AF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623911F0-8533-47A3-9476-2E9755F3AF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623911F0-8533-47A3-9476-2E9755F3AF7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{649B8E97-53EF-4AE1-AC4B-4AF9822312C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{649B8E97-53EF-4AE1-AC4B-4AF9822312C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{649B8E97-53EF-4AE1-AC4B-4AF9822312C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{649B8E97-53EF-4AE1-AC4B-4AF9822312C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
