@@ -40,3 +40,8 @@ D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\bin\Deb
 D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\obj\Debug\Ejercicio9.csprojResolveAssemblyReference.cache
 D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\obj\Debug\Ejer2.exe
 D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\obj\Debug\Ejer2.pdb
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\bin\Debug\Ejer2.exe.config
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\bin\Debug\Ejer2.exe
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\bin\Debug\Ejer2.pdb
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\obj\Debug\Ejer2.exe
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio9\obj\Debug\Ejer2.pdb

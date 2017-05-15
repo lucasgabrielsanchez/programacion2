@@ -33,3 +33,7 @@ D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TP1\bin\Debug\TP1.
 D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TP1\obj\Debug\TP1.csprojResolveAssemblyReference.cache
 D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TP1\obj\Debug\TP1.dll
 D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TP1\obj\Debug\TP1.pdb
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TP1\bin\Debug\TP1.dll
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TP1\bin\Debug\TP1.pdb
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TP1\obj\Debug\TP1.dll
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TP1\obj\Debug\TP1.pdb

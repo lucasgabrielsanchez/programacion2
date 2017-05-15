@@ -47,3 +47,8 @@ D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\bin\Deb
 D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
 D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\obj\Debug\Sanchez.Lucas.Ejer1.exe
 D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\obj\Debug\Sanchez.Lucas.Ejer1.pdb
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\bin\Debug\Sanchez.Lucas.Ejer1.exe.config
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\bin\Debug\Sanchez.Lucas.Ejer1.exe
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\bin\Debug\Sanchez.Lucas.Ejer1.pdb
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\obj\Debug\Sanchez.Lucas.Ejer1.exe
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\obj\Debug\Sanchez.Lucas.Ejer1.pdb

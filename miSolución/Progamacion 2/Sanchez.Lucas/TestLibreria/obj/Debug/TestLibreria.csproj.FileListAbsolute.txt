@@ -46,3 +46,11 @@ D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\bin\D
 D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\obj\Debug\TestLibreria.csprojResolveAssemblyReference.cache
 D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\obj\Debug\TestLibreria.exe
 D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\obj\Debug\TestLibreria.pdb
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\bin\Debug\TestLibreria.exe.config
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\bin\Debug\TestLibreria.exe
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\bin\Debug\TestLibreria.pdb
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\bin\Debug\Entidades.dll
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\bin\Debug\Entidades.pdb
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\obj\Debug\TestLibreria.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\obj\Debug\TestLibreria.exe
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TestLibreria\obj\Debug\TestLibreria.pdb

@@ -52,7 +52,15 @@ namespace Herencia_Vehiculo
             return !(v1 == v2);
         }
 
-        
+        public override bool Equals(object obj) //sobreescribo el metodo virtual derivado de object para
+        {                                       //poder utilizar el metodo Equals para comparar objetos.
+            //if (obj is Vehiculo && this == ((Vehiculo)obj))
+            //{   
+            //    return true;
+            //}
+            
+            return (obj is Vehiculo && this == (Vehiculo)obj); 
+        }
 
      
 

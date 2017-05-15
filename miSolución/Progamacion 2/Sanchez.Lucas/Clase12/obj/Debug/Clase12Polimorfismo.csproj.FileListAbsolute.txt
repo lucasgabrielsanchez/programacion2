@@ -2,3 +2,7 @@ D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Clase12\bin\Debug\
 D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Clase12\bin\Debug\Clase12.pdb
 D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Clase12\obj\Debug\Clase12.dll
 D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Clase12\obj\Debug\Clase12.pdb
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Clase12\bin\Debug\Clase12.dll
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Clase12\bin\Debug\Clase12.pdb
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Clase12\obj\Debug\Clase12.dll
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Clase12\obj\Debug\Clase12.pdb

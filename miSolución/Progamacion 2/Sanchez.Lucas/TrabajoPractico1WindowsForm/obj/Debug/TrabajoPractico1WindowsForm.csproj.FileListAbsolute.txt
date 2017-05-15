@@ -84,3 +84,14 @@ D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1Wi
 D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.csproj.GenerateResource.Cache
 D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.exe
 D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.pdb
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TrabajoPractico1WindowsForm.exe.config
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TrabajoPractico1WindowsForm.exe
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TrabajoPractico1WindowsForm.pdb
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TP1.dll
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TP1.pdb
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.Form1.resources
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.Properties.Resources.resources
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.csproj.GenerateResource.Cache
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.exe
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.pdb

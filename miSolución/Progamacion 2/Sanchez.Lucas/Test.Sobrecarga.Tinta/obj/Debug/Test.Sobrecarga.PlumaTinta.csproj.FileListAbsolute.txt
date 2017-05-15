@@ -49,3 +49,11 @@ D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Ti
 D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.PlumaTinta.csprojResolveAssemblyReference.cache
 D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.Tinta.exe
 D:\trabajandoGitLocal\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.Tinta.pdb
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Test.Sobrecarga.Tinta.exe.config
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Test.Sobrecarga.Tinta.exe
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Test.Sobrecarga.Tinta.pdb
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Entidades.Sobrecarga.dll
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\bin\Debug\Entidades.Sobrecarga.pdb
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.PlumaTinta.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.Tinta.exe
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Test.Sobrecarga.Tinta\obj\Debug\Test.Sobrecarga.Tinta.pdb
