@@ -38,3 +38,6 @@ C:\Users\gustavo\Desktop\dd\miSolución\Progamacion 2\Sanchez.Lucas\TP-02\bin\De
 C:\Users\gustavo\Desktop\dd\miSolución\Progamacion 2\Sanchez.Lucas\TP-02\bin\Debug\Entidades.dll
 C:\Users\gustavo\Desktop\dd\miSolución\Progamacion 2\Sanchez.Lucas\TP-02\bin\Debug\Entidades.pdb
 C:\Users\gustavo\Desktop\dd\miSolución\Progamacion 2\Sanchez.Lucas\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+D:\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP-02\bin\Debug\TP-02.exe.config
+D:\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP-02\obj\Debug\TP-02.exe
+D:\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP-02\obj\Debug\TP-02.pdb

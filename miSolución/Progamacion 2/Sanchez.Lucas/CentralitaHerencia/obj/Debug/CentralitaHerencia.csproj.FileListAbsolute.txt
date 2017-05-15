@@ -1,0 +1,5 @@
+C:\Users\gustavo\Desktop\dd\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+C:\Users\gustavo\Desktop\dd\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+C:\Users\gustavo\Desktop\dd\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\Users\gustavo\Desktop\dd\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+C:\Users\gustavo\Desktop\dd\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
