@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Express 2012 for Windows Desktop
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio1", "Ejercicio1\Ejercicio1.csproj", "{32B13F2B-5120-460A-ACF5-BF5DD007F271}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase03", "Clase 3\Clase03.csproj", "{B5337FFE-A9E9-4F86-90F8-44D05FE8DDEB}"
@@ -40,6 +40,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase12Polimorfismo", "Clase12\Clase12Polimorfismo.csproj", "{623911F0-8533-47A3-9476-2E9755F3AF7F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClase12Polimorfismo", "TestClase12\TestClase12Polimorfismo.csproj", "{649B8E97-53EF-4AE1-AC4B-4AF9822312C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP-02", "..\..\..\..\tp_2\TP-02\TP-02\TP-02.csproj", "{19D443D3-182C-4844-8A63-A4184CDDA8A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP-02Entidades", "..\..\..\..\tp_2\TP-02\TP-02Entidades\TP-02Entidades.csproj", "{8CF8EFF2-C6B2-44B2-B247-11A4F2ED3CCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -127,6 +131,14 @@ Global
 		{649B8E97-53EF-4AE1-AC4B-4AF9822312C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{649B8E97-53EF-4AE1-AC4B-4AF9822312C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{649B8E97-53EF-4AE1-AC4B-4AF9822312C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D443D3-182C-4844-8A63-A4184CDDA8A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D443D3-182C-4844-8A63-A4184CDDA8A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D443D3-182C-4844-8A63-A4184CDDA8A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D443D3-182C-4844-8A63-A4184CDDA8A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF8EFF2-C6B2-44B2-B247-11A4F2ED3CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF8EFF2-C6B2-44B2-B247-11A4F2ED3CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF8EFF2-C6B2-44B2-B247-11A4F2ED3CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF8EFF2-C6B2-44B2-B247-11A4F2ED3CCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
