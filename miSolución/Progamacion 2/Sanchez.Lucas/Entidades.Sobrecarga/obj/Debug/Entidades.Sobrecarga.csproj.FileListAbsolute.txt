@@ -47,3 +47,8 @@ C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.
 C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\bin\Debug\Entidades.Sobrecarga.pdb
 C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\obj\Debug\Entidades.Sobrecarga.dll
 C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\obj\Debug\Entidades.Sobrecarga.pdb
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\bin\Debug\Entidades.Sobrecarga.dll
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\bin\Debug\Entidades.Sobrecarga.pdb
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\obj\Debug\Entidades.Sobrecarga.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\obj\Debug\Entidades.Sobrecarga.dll
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Entidades.Sobrecarga\obj\Debug\Entidades.Sobrecarga.pdb

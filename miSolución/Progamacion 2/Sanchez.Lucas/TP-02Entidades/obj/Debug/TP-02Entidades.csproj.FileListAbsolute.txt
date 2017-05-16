@@ -1,0 +1,4 @@
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP-02Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP-02Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP-02Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP-02Entidades\obj\Debug\Entidades.pdb

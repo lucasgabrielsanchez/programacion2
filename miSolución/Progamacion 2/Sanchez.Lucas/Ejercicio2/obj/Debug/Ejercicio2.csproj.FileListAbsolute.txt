@@ -39,3 +39,9 @@ C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.
 C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio2\bin\Debug\Ejercicio2.pdb
 C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio2\obj\Debug\Ejercicio2.exe
 C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio2\obj\Debug\Ejercicio2.pdb
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio2\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio2\obj\Debug\Ejercicio2.pdb

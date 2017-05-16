@@ -37,3 +37,8 @@ C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.
 C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TP1\bin\Debug\TP1.pdb
 C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TP1\obj\Debug\TP1.dll
 C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\TP1\obj\Debug\TP1.pdb
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP1\bin\Debug\TP1.dll
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP1\bin\Debug\TP1.pdb
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP1\obj\Debug\TP1.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP1\obj\Debug\TP1.dll
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP1\obj\Debug\TP1.pdb

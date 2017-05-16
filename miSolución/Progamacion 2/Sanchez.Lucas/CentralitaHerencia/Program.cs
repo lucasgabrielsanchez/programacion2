@@ -10,6 +10,9 @@ namespace CentralitaHerencia
     {
         static void Main(string[] args)
         {
+            Centralita centralita = new Centralita("Telefonica");
+
+
         }
     }
 }

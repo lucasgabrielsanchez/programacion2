@@ -53,3 +53,11 @@ C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.
 C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad.Consola\obj\Debug\Clase06.Entidad.Consola.csprojResolveAssemblyReference.cache
 C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad.Consola\obj\Debug\Clase06.Entidad.Consola.exe
 C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad.Consola\obj\Debug\Clase06.Entidad.Consola.pdb
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad.Consola\bin\Debug\Clase06.Entidad.Consola.exe.config
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad.Consola\bin\Debug\Clase06.Entidad.Consola.exe
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad.Consola\bin\Debug\Clase06.Entidad.Consola.pdb
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad.Consola\bin\Debug\Clase06.Entidad.dll
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad.Consola\bin\Debug\Clase06.Entidad.pdb
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad.Consola\obj\Debug\Clase06.Entidad.Consola.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad.Consola\obj\Debug\Clase06.Entidad.Consola.exe
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase06.Entidad.Consola\obj\Debug\Clase06.Entidad.Consola.pdb

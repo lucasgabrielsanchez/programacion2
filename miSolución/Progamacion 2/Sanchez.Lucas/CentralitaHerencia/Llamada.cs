@@ -43,7 +43,7 @@ namespace CentralitaHerencia
             this._duracion = duracion;
         }
 
-        private string Mostrar()
+        protected virtual string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
             sb.Append("Nro Origen: "+this.NroOrigen);

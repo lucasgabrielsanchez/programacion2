@@ -55,3 +55,9 @@ C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.
 C:\Users\gustavo\Desktop\dd\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\bin\Debug\Sanchez.Lucas.Ejer1.exe.config
 C:\Users\gustavo\Desktop\dd\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\obj\Debug\Sanchez.Lucas.Ejer1.exe
 C:\Users\gustavo\Desktop\dd\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\obj\Debug\Sanchez.Lucas.Ejer1.pdb
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\bin\Debug\Sanchez.Lucas.Ejer1.exe.config
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\bin\Debug\Sanchez.Lucas.Ejer1.exe
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\bin\Debug\Sanchez.Lucas.Ejer1.pdb
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\obj\Debug\Sanchez.Lucas.Ejer1.exe
+C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio1\obj\Debug\Sanchez.Lucas.Ejer1.pdb

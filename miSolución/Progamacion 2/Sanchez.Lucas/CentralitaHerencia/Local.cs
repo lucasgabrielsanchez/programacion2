@@ -26,8 +26,19 @@ namespace CentralitaHerencia
 
         private float CalcularCosto()
         {
-            return (this._costo * this._duracion);
+            return (this._costo * base._duracion);
         }
+
+        override string Mostrar()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine(base.Mostrar());
+            sb.AppendLine((this.CostoLlamada).ToString());
+
+            return sb.ToString();
+        }
+
+        
 
        
 
