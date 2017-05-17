@@ -16,13 +16,15 @@ namespace CentralitaHerencia
             this._franjaHoraria = miFranja;
         }
 
-        protected override string Mostrar()
+        public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine(base.Mostrar());
+            sb.AppendLine("Llamada Provincial: ");
+            sb.AppendLine("-------------------------------");
+            sb.Append(base.Mostrar());
             sb.AppendLine("Franja horaria: " + this._franjaHoraria);
-            sb.AppendLine("El Costo es de: " + this.CalcularCosto());
+            sb.AppendLine("El Costo es de: $" + this.CalcularCosto());
 
             return sb.ToString();
         }

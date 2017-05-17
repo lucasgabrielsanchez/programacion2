@@ -58,6 +58,22 @@ namespace CentralitaHerencia
             return total;
         }
 
+        public void Mostrar()
+        {
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendFormat("Razón Social: {0}\n\n", this._razonSocial);
+            sb.AppendLine("Ganancias:");
+            sb.AppendLine("-------------------------------");
+            sb.AppendFormat("Ganancia Total: ${0}\nGanancia Local: ${1}\nGanancia Provincial: ${2}\n\n", this.GananciaTotal,this.GananciaPorLocal,this.GananciaPorProvincial);
+            foreach (Llamada item in this._listaDeLlamadas)
+            {
+                sb.AppendLine(item.Mostrar());
+            }
+
+            Console.WriteLine(sb);
+        }
+
         public float GananciaPorLocal
         {
             get

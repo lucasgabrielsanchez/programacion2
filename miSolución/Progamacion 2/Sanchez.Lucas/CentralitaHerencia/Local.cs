@@ -29,11 +29,13 @@ namespace CentralitaHerencia
             return (this._costo * base._duracion);
         }
 
-        override string Mostrar()
+        public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine(base.Mostrar());
-            sb.AppendLine((this.CostoLlamada).ToString());
+            sb.AppendLine("Llamada Local: ");
+            sb.AppendLine("-------------------------------");
+            sb.Append(base.Mostrar());
+            sb.AppendLine("El costo es de: $" + (this.CostoLlamada).ToString());
 
             return sb.ToString();
         }

@@ -43,12 +43,12 @@ namespace CentralitaHerencia
             this._duracion = duracion;
         }
 
-        protected virtual string Mostrar()
+        public virtual string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
-            sb.Append("Nro Origen: "+this.NroOrigen);
-            sb.Append("Nro Destino: " + this.NroDestino);
-            sb.Append("Duración: " + this.Duracion);
+            sb.AppendLine("Nro Origen: "+this.NroOrigen);
+            sb.AppendLine("Nro Destino: " + this.NroDestino);
+            sb.AppendLine("Duración: " + this.Duracion);
 
             return sb.ToString();
            
