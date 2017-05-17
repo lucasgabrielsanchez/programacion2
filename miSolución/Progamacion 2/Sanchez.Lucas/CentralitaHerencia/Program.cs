@@ -28,9 +28,15 @@ namespace CentralitaHerencia
 
             centralita.Mostrar();
 
-            
+            Console.ReadLine();
 
-            Console.ReadKey();
+            centralita.Llamadas.Sort(Llamada.OrdenarPorDuracion);
+
+            Console.Clear();
+
+            centralita.Mostrar();
+
+            Console.ReadLine();
 
 
         }

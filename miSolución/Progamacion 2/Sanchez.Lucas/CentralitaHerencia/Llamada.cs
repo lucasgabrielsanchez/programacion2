@@ -54,9 +54,9 @@ namespace CentralitaHerencia
            
         }
 
-        static int OrdenarPorDuracion(Llamada uno, Llamada dos)
+        public static int OrdenarPorDuracion(Llamada uno, Llamada dos)
         {
-            return 5;
+            return uno.Duracion.CompareTo(dos.Duracion);
         }
     }
 }
