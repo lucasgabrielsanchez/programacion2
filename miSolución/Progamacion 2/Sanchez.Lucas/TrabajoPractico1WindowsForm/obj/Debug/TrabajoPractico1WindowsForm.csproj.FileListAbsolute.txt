@@ -106,3 +106,14 @@ C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Tr
 C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.csproj.GenerateResource.Cache
 C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.exe
 C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.pdb
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TrabajoPractico1WindowsForm.exe.config
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TrabajoPractico1WindowsForm.exe
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TrabajoPractico1WindowsForm.pdb
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TP1.dll
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\bin\Debug\TP1.pdb
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.csprojResolveAssemblyReference.cache
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.Form1.resources
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.Properties.Resources.resources
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.csproj.GenerateResource.Cache
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.exe
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TrabajoPractico1WindowsForm\obj\Debug\TrabajoPractico1WindowsForm.pdb

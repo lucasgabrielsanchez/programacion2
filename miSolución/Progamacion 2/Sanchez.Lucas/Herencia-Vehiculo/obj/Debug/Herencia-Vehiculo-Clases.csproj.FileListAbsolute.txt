@@ -22,3 +22,8 @@ C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\He
 C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\obj\Debug\Herencia-Vehiculo-Clases.csprojResolveAssemblyReference.cache
 C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\obj\Debug\Herencia-Vehiculo.dll
 C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\obj\Debug\Herencia-Vehiculo.pdb
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\bin\Debug\Herencia-Vehiculo.dll
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\bin\Debug\Herencia-Vehiculo.pdb
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\obj\Debug\Herencia-Vehiculo-Clases.csprojResolveAssemblyReference.cache
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\obj\Debug\Herencia-Vehiculo.dll
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo\obj\Debug\Herencia-Vehiculo.pdb

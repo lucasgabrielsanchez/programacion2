@@ -38,3 +38,11 @@ C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\He
 C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo-Consola\obj\Debug\Herencia-Vehiculo-Consola.csprojResolveAssemblyReference.cache
 C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo-Consola\obj\Debug\Herencia-Vehiculo-Consola.exe
 C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo-Consola\obj\Debug\Herencia-Vehiculo-Consola.pdb
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo-Consola\bin\Debug\Herencia-Vehiculo-Consola.exe.config
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo-Consola\bin\Debug\Herencia-Vehiculo-Consola.exe
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo-Consola\bin\Debug\Herencia-Vehiculo-Consola.pdb
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo-Consola\bin\Debug\Herencia-Vehiculo.dll
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo-Consola\bin\Debug\Herencia-Vehiculo.pdb
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo-Consola\obj\Debug\Herencia-Vehiculo-Consola.csprojResolveAssemblyReference.cache
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo-Consola\obj\Debug\Herencia-Vehiculo-Consola.exe
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Herencia-Vehiculo-Consola\obj\Debug\Herencia-Vehiculo-Consola.pdb

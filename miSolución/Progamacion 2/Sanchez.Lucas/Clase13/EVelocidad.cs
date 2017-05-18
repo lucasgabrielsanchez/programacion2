@@ -1,0 +1,1 @@
+﻿public enum Evelocidad {Minima = 10, Baja = 30, Media = 60, Alta = 120, Hiper = 653}

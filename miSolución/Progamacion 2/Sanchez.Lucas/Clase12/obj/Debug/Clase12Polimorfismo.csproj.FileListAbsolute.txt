@@ -10,3 +10,7 @@ C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Cl
 C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase12\bin\Debug\Clase12.pdb
 C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase12\obj\Debug\Clase12.dll
 C:\Users\alumno\Desktop\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase12\obj\Debug\Clase12.pdb
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase12\bin\Debug\Clase12.dll
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase12\bin\Debug\Clase12.pdb
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase12\obj\Debug\Clase12.dll
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase12\obj\Debug\Clase12.pdb

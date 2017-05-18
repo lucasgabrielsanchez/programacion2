@@ -1,0 +1,8 @@
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\bin\Debug\Clase13Consola.exe.config
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\bin\Debug\Clase13Consola.exe
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\bin\Debug\Clase13Consola.pdb
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\bin\Debug\Clase13.dll
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\bin\Debug\Clase13.pdb
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\obj\Debug\Clase13Consola.csprojResolveAssemblyReference.cache
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\obj\Debug\Clase13Consola.exe
+D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\obj\Debug\Clase13Consola.pdb
