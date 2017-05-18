@@ -10,7 +10,7 @@ namespace CentralitaPolimorfismo
     {
         private float _costo;
 
-        public float CostoLlamada
+        public override float CostoLlamada
         {
             get
             {
@@ -40,9 +40,22 @@ namespace CentralitaPolimorfismo
             return sb.ToString();
         }
 
-        
+        public override bool Equals(object obj)
+        {
+            bool aux = false;
 
-       
+            if (obj is Local && this == ((Local)obj))
+            {
+                aux = true;
+            }
+
+            return aux;
+        }
+
+        public override string ToString()
+        {
+            return this.Mostrar();
+        }
 
     }
 }

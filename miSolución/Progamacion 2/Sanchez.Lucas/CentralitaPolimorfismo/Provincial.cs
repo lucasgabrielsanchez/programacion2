@@ -29,7 +29,7 @@ namespace CentralitaPolimorfismo
             return sb.ToString();
         }
 
-        public float CostoLlamada
+        public override float CostoLlamada
         {
             get
             {
@@ -58,6 +58,24 @@ namespace CentralitaPolimorfismo
             }
 
             return retorno;
+        }
+
+        public override bool Equals(object obj)
+        {
+            bool aux = false;
+
+            if (obj is Provincial && this == ((Provincial)obj))
+            {   
+               aux = true;
+            }
+
+            return aux;
+        }
+        
+
+        public override string ToString()
+        {
+            return this.Mostrar();
         }
     }
 }

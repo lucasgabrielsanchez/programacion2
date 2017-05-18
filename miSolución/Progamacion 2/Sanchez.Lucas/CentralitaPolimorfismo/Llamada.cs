@@ -63,5 +63,41 @@ namespace CentralitaPolimorfismo
         {
             return uno.Duracion.CompareTo(dos.Duracion);
         }
+
+
+        public static bool operator == (Llamada llamada1,Llamada llamada2)
+        {
+
+         bool aux = false;
+
+         if ((llamada1.GetType()) == (llamada2.GetType())) //compara los tipos de objeto para saber si las llamadas son del mismo tipo.
+          {
+              if ((llamada1.NroOrigen == llamada2.NroOrigen) && (llamada1.NroDestino == llamada2.NroDestino))
+              {
+                  aux = true;
+              }
+          }
+
+          return aux;
+
+         }
+
+        public static bool operator !=(Llamada llamada1, Llamada llamada2)
+        {
+            return !(llamada1 == llamada2);
+        }
+
+        public override bool Equals(object obj)
+        {
+            bool aux = false;
+
+            if (obj is Llamada && this == ((Llamada)obj))
+            {
+                aux = true;
+            }
+
+            return aux;
+        }
+
     }
 }

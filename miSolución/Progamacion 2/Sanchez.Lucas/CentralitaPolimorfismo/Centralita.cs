@@ -58,21 +58,21 @@ namespace CentralitaPolimorfismo
             return total;
         }
 
-        public void Mostrar()
-        {
-            StringBuilder sb = new StringBuilder();
+        //public void Mostrar()
+        //{
+        //    StringBuilder sb = new StringBuilder();
 
-            sb.AppendFormat("Razón Social: \"{0}\"\n\n", this._razonSocial); //con el /" alrededor del indice u objeto, hago que el objeto se rodee de comillas al imprimirse.
-            sb.AppendLine("Ganancias:");
-            sb.AppendLine("-------------------------------");
-            sb.AppendFormat("Ganancia Total: ${0}\nGanancia Local: ${1}\nGanancia Provincial: ${2}\n\n", this.GananciaTotal,this.GananciaPorLocal,this.GananciaPorProvincial);
-            foreach (Llamada item in this._listaDeLlamadas)
-            {
-                sb.AppendLine(item.Mostrar());
-            }
+        //    sb.AppendFormat("Razón Social: \"{0}\"\n\n", this._razonSocial); //con el /" alrededor del indice u objeto, hago que el objeto se rodee de comillas al imprimirse.
+        //    sb.AppendLine("Ganancias:");
+        //    sb.AppendLine("-------------------------------");
+        //    sb.AppendFormat("Ganancia Total: ${0}\nGanancia Local: ${1}\nGanancia Provincial: ${2}\n\n", this.GananciaTotal, this.GananciaPorLocal, this.GananciaPorProvincial);
+        //    foreach (Llamada item in this._listaDeLlamadas)
+        //    {
+        //        sb.AppendLine(item.ToString());
+        //    }
 
-            Console.WriteLine(sb);
-        }
+        //    Console.WriteLine(sb);
+        //}
 
         public float GananciaPorLocal
         {
@@ -105,5 +105,79 @@ namespace CentralitaPolimorfismo
                 return this._listaDeLlamadas;
             }
         }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendFormat("Razón Social: \"{0}\"\n\n", this._razonSocial); //con el /" alrededor del indice u objeto, hago que el objeto se rodee de comillas al imprimirse.
+            sb.AppendLine("Ganancias:");
+            sb.AppendLine("-------------------------------");
+            sb.AppendFormat("Ganancia Total: ${0}\nGanancia Local: ${1}\nGanancia Provincial: ${2}\n\n", this.GananciaTotal, this.GananciaPorLocal, this.GananciaPorProvincial);
+            foreach (Llamada item in this._listaDeLlamadas)
+            {
+                sb.AppendLine(item.ToString());
+            }
+
+            return sb.ToString();
+        }
+
+        public override bool Equals(object obj)
+        {
+            bool aux = false;
+
+            if (obj is Centralita && this == ((Centralita)obj))
+            {
+                aux = true;
+            }
+
+            return aux;
+        }
+
+        private void AgregarLlamada(Llamada nuevaLlamada)
+        {
+            this._listaDeLlamadas.Add(nuevaLlamada);
+        }
+
+        public static bool operator ==(Centralita cent, Llamada llamadaNueva)
+        {
+            bool aux = false;
+
+            foreach (Llamada item in cent._listaDeLlamadas)
+            {
+                //if (item == llamadaNueva)
+
+                if (item.Equals(llamadaNueva))
+                {
+                    aux = true;
+                }
+            }
+
+            return aux;
+        }
+
+        public static bool operator !=(Centralita cent, Llamada llam)
+        {
+            return !(cent == llam);
+        }
+
+
+        public static Centralita operator +(Centralita cen, Llamada llamadaNueva)
+        {
+            if (cen != llamadaNueva)
+            {
+                cen.AgregarLlamada(llamadaNueva);
+            }
+            else
+            {
+                Console.WriteLine("La llamada ya existe dentro de la central");
+                Console.ReadLine();
+            }
+
+            return cen;
+
+        }
+
+
     }
 }

@@ -1,3 +1,7 @@
 C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.csprojResolveAssemblyReference.cache
 C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.exe.config
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.exe
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.pdb
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.exe
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.pdb
