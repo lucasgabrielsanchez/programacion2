@@ -6,3 +6,6 @@ D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\bin
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\obj\Debug\Clase13Consola.csprojResolveAssemblyReference.cache
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\obj\Debug\Clase13Consola.exe
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\obj\Debug\Clase13Consola.pdb
+D:\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\bin\Debug\Clase13Consola.exe.config
+D:\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\obj\Debug\Clase13Consola.exe
+D:\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\obj\Debug\Clase13Consola.pdb

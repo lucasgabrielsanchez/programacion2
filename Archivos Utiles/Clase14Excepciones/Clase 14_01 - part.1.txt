@@ -1,0 +1,18 @@
+//crear un proyecto de tipo class library que contenga:
+
+
+1-Clase Numero
+* protected _numero:double
+* -->prop. solo Lectura
+* const. 1 parametro
+* sobrecarga + (Numero, Numero) : double
+* sobrecarga - (Numero, Numero) : double
+* sobrecarga / (Numero, Numero) : double
+* sobrecarga * (Numero, Numero) : double
+
+
+
+
+
+
+

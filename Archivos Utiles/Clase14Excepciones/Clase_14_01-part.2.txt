@@ -1,0 +1,16 @@
+AGREGAR A LA CLASS LIBRARY:
+
+2-Clase ColectoraDeNumeros
+* protected list<Numero> _numeros
+* prop. autodefinida TipoNumero --> * ETipoNumero{Par, Impar, Positivo, Negativo, Cero}
+* constr. por default (privado)
+* constr. un parametro ETipoNumero.
+
+* sobrecarga == (ColectoraDeNumeros, Numero) : bool
+-->si el Numero esta en la coleccion, true. Caso contrario, false.
+* sobrecarga + (ColectoraDeNumeros, Numero) : ColectoraDeNumeros
+-->si el Numero coincide con el ETipoNumero), agregarlo. Caso contrario Mostrar mensaje
+* sobrecarga - (ColectoraDeNumeros, Numero) : ColectoraDeNumeros
+-->si el Numero esta en la coleccion, quitarlo (la primera ocurrencia). Caso contrario mostrar mensaje.
+
+*polimorfismo ToString

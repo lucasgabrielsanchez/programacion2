@@ -1,0 +1,7 @@
+MODIFICAR COLECTORADENUMEROS:
+
+2-Clase ColectoraDeNumeros
+* sobrecarga + (ColectoraDeNumeros, Numero) : ColectoraDeNumeros
+-->si el Numero coincide con el ETipoNumero), agregarlo. Caso contrario lanzar excepcion
+* sobrecarga - (ColectoraDeNumeros, Numero) : ColectoraDeNumeros
+-->si el Numero esta en la coleccion, quitarlo (la primera ocurrencia). Caso contrario lanzar una excepcion.
