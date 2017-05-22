@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Express 2012 for Windows Desktop
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio1", "Ejercicio1\Ejercicio1.csproj", "{32B13F2B-5120-460A-ACF5-BF5DD007F271}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase03", "Clase 3\Clase03.csproj", "{B5337FFE-A9E9-4F86-90F8-44D05FE8DDEB}"
@@ -56,6 +56,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase14", "Clase14\Clase14.csproj", "{17FA1AB7-1C30-49A7-AE4E-107207898880}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase14Consola", "Clase14Consola\Clase14Consola.csproj", "{12C225F1-DCE6-4E40-ADB2-EC7D86D48B6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimerParcial", "PrimerParcial\PrimerParcial.csproj", "{79A70E2B-FE0E-416A-A349-A3A8546AA880}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -175,6 +177,10 @@ Global
 		{12C225F1-DCE6-4E40-ADB2-EC7D86D48B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12C225F1-DCE6-4E40-ADB2-EC7D86D48B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12C225F1-DCE6-4E40-ADB2-EC7D86D48B6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79A70E2B-FE0E-416A-A349-A3A8546AA880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A70E2B-FE0E-416A-A349-A3A8546AA880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A70E2B-FE0E-416A-A349-A3A8546AA880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A70E2B-FE0E-416A-A349-A3A8546AA880}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

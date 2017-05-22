@@ -6,3 +6,6 @@ D:\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase14Consola\
 D:\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase14Consola\obj\Debug\Clase14Consola.csprojResolveAssemblyReference.cache
 D:\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase14Consola\obj\Debug\Clase14Consola.exe
 D:\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase14Consola\obj\Debug\Clase14Consola.pdb
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase14Consola\bin\Debug\Clase14Consola.exe.config
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase14Consola\obj\Debug\Clase14Consola.exe
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase14Consola\obj\Debug\Clase14Consola.pdb
