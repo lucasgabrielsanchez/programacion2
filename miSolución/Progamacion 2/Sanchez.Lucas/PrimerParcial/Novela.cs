@@ -10,7 +10,7 @@ namespace PrimerParcial
     {
         public EGenero genero;
 
-        public Novela(string titulo, float precio, string nombre, string apellido, EGenero genero) :base(precio,titulo,nombre,apellido)
+        public Novela(string titulo, float precio, Autor autor, EGenero genero) :base(titulo,autor,precio)
         {
             this.genero = genero;
         }

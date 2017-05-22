@@ -67,10 +67,23 @@ namespace PrimerParcial
             //Libro,Novela y Manual tienen su propia sobrecarga de comparación del ==, podría decirse que esto es reutilizar código.
             foreach (Libro item in b._libros)
             {
-                if (item == l)
+                if (item is Manual)
                 {
+                    if (item == l)
                     aux = true;
                     break;//Hago un break ya que no necesito seguir recorriendo el foreach si ya se dió la igualdad.
+                }
+
+                else if (item is Novela)
+                {
+                    if (item == l)
+                        aux = true;
+                    break;//Hago un break ya que no necesito seguir recorriendo el foreach si ya se dió la igualdad.
+                }
+
+                else if (item == l)
+                {
+                    aux == true;
                 }
             }
 
@@ -101,6 +114,66 @@ namespace PrimerParcial
             }
 
             return b;
+        }
+
+        public double PrecioDeManuales 
+        {
+            get
+            {
+                double aux = 0;
+
+                foreach (Manual item in this._libros)
+                {
+                    aux += item;
+                }
+
+                return aux;
+            }       
+        }
+
+        public double PrecioDeNovelas
+        {
+            get
+            {
+                double aux = 0;
+
+                foreach (Novela item in this._libros)
+                {
+                    aux += item;
+                }
+
+                return aux;
+            }
+        }
+
+        public double PrecioTotal
+        {
+            get
+            {
+                return this.PrecioDeManuales + this.PrecioDeNovelas;
+            }
+        }
+
+
+
+        private double ObtenerPrecio(ELibro tipoLibro)
+        {
+            double aux = 0;
+
+            switch (tipoLibro)
+            {
+                case ELibro.Manual:
+                    aux += this.PrecioDeManuales;
+                    break;
+                case ELibro.Novela:
+                    aux += this.PrecioDeNovelas;
+                    break;
+                case ELibro.Ambos:
+                    aux += this.PrecioTotal;
+                    break;
+            }
+
+            return aux;
         }
 
     }

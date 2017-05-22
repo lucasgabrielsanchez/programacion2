@@ -35,6 +35,11 @@ namespace PrimerParcial
             this._precio = precio;
             this._titulo = titulo;
         }
+
+        public Libro(string titulo, Autor autor, float precio) :this(precio,titulo,"","")
+        {
+            this._autor = autor;
+        }
         #endregion
 
         #region Propiedades
