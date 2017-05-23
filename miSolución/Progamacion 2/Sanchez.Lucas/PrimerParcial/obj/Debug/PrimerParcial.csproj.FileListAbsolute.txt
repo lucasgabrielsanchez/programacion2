@@ -4,3 +4,9 @@ C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez
 C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\PrimerParcial\bin\Debug\PrimerParcial.pdb
 C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\PrimerParcial\obj\Debug\PrimerParcial.exe
 C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\PrimerParcial\obj\Debug\PrimerParcial.pdb
+D:\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\PrimerParcial\bin\Debug\PrimerParcial.exe.config
+D:\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\PrimerParcial\obj\Debug\PrimerParcial.exe
+D:\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\PrimerParcial\obj\Debug\PrimerParcial.pdb
+D:\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\PrimerParcial\obj\Debug\PrimerParcial.csprojResolveAssemblyReference.cache
+D:\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\PrimerParcial\bin\Debug\PrimerParcial.exe
+D:\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\PrimerParcial\bin\Debug\PrimerParcial.pdb

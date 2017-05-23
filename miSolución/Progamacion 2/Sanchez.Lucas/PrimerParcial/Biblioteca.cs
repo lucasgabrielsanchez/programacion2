@@ -27,6 +27,10 @@ namespace PrimerParcial
 
             sb.AppendLine("Capacidad: " + b._capacidad);
 
+            sb.AppendFormat("Total por Manuales: $ {0:N2}\n", b.ObtenerPrecio(ELibro.Manual));
+            sb.AppendFormat("Total por Novelas: $ {0:N2}\n", b.ObtenerPrecio(ELibro.Novela));
+            sb.AppendFormat("Total: $ {0:N2}\n", b.ObtenerPrecio(ELibro.Ambos));
+
             sb.AppendLine("*********************************************");
             sb.AppendLine("Listado de Libros");
             sb.AppendLine("*********************************************");
@@ -62,9 +66,9 @@ namespace PrimerParcial
         public static bool operator ==(Biblioteca b, Libro l)
         {
             bool aux = false;
-            //en este caso no es necesario preguntar dentro del foreach si el libro recibido por parámetro es de tipo Libro,Novela o manual
-            //porque el == va a responder por si mismo dependiendo de que haya de cada lado de la igualdad, por la simple razón de que tanto
-            //Libro,Novela y Manual tienen su propia sobrecarga de comparación del ==, podría decirse que esto es reutilizar código.
+            
+            //Debo discriminar entre los tipos para preguntar por la igualdad, ya que si no lo hago, por ejemplo un Manual, también
+            //es un libro, entonces preguntaría por la igualdad de libro y por la igualdad de Manual.
             foreach (Libro item in b._libros)
             {
                 if (item is Manual)
@@ -83,7 +87,7 @@ namespace PrimerParcial
 
                 else if (item == l)
                 {
-                    aux == true;
+                    aux = true;
                 }
             }
 
@@ -122,9 +126,12 @@ namespace PrimerParcial
             {
                 double aux = 0;
 
-                foreach (Manual item in this._libros)
+                foreach (Libro item in this._libros)
                 {
-                    aux += item;
+                    if (item is Manual)
+                    {
+                        aux += (Manual)item;
+                    }
                 }
 
                 return aux;
@@ -137,9 +144,12 @@ namespace PrimerParcial
             {
                 double aux = 0;
 
-                foreach (Novela item in this._libros)
+                foreach (Libro item in this._libros)
                 {
-                    aux += item;
+                    if (item is Novela)
+                    {
+                        aux += (Novela)item;
+                    }
                 }
 
                 return aux;
