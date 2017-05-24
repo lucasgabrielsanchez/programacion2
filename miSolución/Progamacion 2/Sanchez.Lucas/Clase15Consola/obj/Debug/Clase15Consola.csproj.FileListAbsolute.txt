@@ -1,0 +1,10 @@
+D:\CopiaTrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Consola\bin\Debug\Clase15Consola.exe.config
+D:\CopiaTrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Consola\bin\Debug\Clase15Consola.exe
+D:\CopiaTrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Consola\bin\Debug\Clase15Consola.pdb
+D:\CopiaTrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Consola\bin\Debug\Clase15Libreria.dll
+D:\CopiaTrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Consola\bin\Debug\Clase15Libreria.pdb
+D:\CopiaTrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Consola\obj\Debug\Clase15Consola.csprojResolveAssemblyReference.cache
+D:\CopiaTrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Consola\obj\Debug\Clase15Consola.exe
+D:\CopiaTrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Consola\obj\Debug\Clase15Consola.pdb
+D:\CopiaTrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Consola\bin\Debug\Entidades.Externa.dll
+D:\CopiaTrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Consola\bin\Debug\Entidades.Externa.Sellada.dll

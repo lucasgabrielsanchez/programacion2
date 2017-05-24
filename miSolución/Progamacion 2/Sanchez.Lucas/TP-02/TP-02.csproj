@@ -50,7 +50,7 @@
   <ItemGroup>
     <ProjectReference Include="..\TP-02Entidades\TP-02Entidades.csproj">
       <Project>{8cf8eff2-c6b2-44b2-b247-11a4f2ed3ccb}</Project>
-      <Name>Entidades</Name>
+      <Name>TP-02Entidades</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

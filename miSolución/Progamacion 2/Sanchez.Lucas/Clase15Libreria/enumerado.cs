@@ -1,0 +1,1 @@
+﻿public enum ESexo {Femenino, Masculino, Indeterminado}

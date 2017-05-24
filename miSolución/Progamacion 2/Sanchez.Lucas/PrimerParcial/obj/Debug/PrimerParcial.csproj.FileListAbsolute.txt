@@ -10,3 +10,6 @@ D:\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\PrimerParcial\obj\Debug
 D:\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\PrimerParcial\obj\Debug\PrimerParcial.csprojResolveAssemblyReference.cache
 D:\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\PrimerParcial\bin\Debug\PrimerParcial.exe
 D:\trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\PrimerParcial\bin\Debug\PrimerParcial.pdb
+D:\CopiaTrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\PrimerParcial\bin\Debug\PrimerParcial.exe.config
+D:\CopiaTrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\PrimerParcial\obj\Debug\PrimerParcial.exe
+D:\CopiaTrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\PrimerParcial\obj\Debug\PrimerParcial.pdb

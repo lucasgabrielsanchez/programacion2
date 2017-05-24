@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Windows Desktop
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio1", "Ejercicio1\Ejercicio1.csproj", "{32B13F2B-5120-460A-ACF5-BF5DD007F271}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase03", "Clase 3\Clase03.csproj", "{B5337FFE-A9E9-4F86-90F8-44D05FE8DDEB}"
@@ -58,6 +58,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase14Consola", "Clase14Consola\Clase14Consola.csproj", "{12C225F1-DCE6-4E40-ADB2-EC7D86D48B6D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimerParcial", "PrimerParcial\PrimerParcial.csproj", "{79A70E2B-FE0E-416A-A349-A3A8546AA880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase15Libreria(MetodosDeExtension)", "Clase15Libreria\Clase15Libreria(MetodosDeExtension).csproj", "{EB579203-4111-4363-A879-7492E9146ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase15Consola(MetodosDeExtension)", "Clase15Consola\Clase15Consola(MetodosDeExtension).csproj", "{C77DD094-423B-4688-8B19-600CCB55FC79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -181,6 +185,14 @@ Global
 		{79A70E2B-FE0E-416A-A349-A3A8546AA880}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79A70E2B-FE0E-416A-A349-A3A8546AA880}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79A70E2B-FE0E-416A-A349-A3A8546AA880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB579203-4111-4363-A879-7492E9146ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB579203-4111-4363-A879-7492E9146ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB579203-4111-4363-A879-7492E9146ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB579203-4111-4363-A879-7492E9146ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C77DD094-423B-4688-8B19-600CCB55FC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C77DD094-423B-4688-8B19-600CCB55FC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C77DD094-423B-4688-8B19-600CCB55FC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C77DD094-423B-4688-8B19-600CCB55FC79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
