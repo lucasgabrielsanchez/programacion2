@@ -8,9 +8,14 @@ using Entidades.Externa;
 
 namespace Clase15Libreria
 {
+    //En este caso estamos utilizando la dll "Entidades.Externa", la cual posee métodos y propiedades del tipo protected y para poder ser utilizadas y/o modificadas
+    //a nuestro gusto, la manera más apropiada es crear una clase que herede de dicha dll para poder acceder a estos elementos protected. Como se vé abajo, creamos
+    //nuestro constructor reutilizando el código del padre y creamos propiedades que nos retornen el valor de los atributos. Por convención, es correcto acceder
+    //a ellos mediante "base." pero como heredamos de la clase, también es posible acceder a ellos mediante "this.". Por último creamos un método que muestra por
+    //consola, dichos atributos, en este caso usamos "this." y accedemos a nuestras propiedades.
     public class HerenciaPersonaExterna : PersonaExterna
     {
-
+        //Debemos marcar la ruta completa del enumerado porque tiene el mismo nombre en las 2 dll y en nuestra propia clase, sino, el compilador no sabe a cual ir.
         public HerenciaPersonaExterna(string nombre, string apellido, int edad, Entidades.Externa.ESexo sexo) : base(nombre,apellido,edad,sexo)
         {
 
@@ -42,6 +47,7 @@ namespace Clase15Libreria
             }
         }
 
+        //Debemos marcar la ruta completa del enumerado porque tiene el mismo nombre en las 2 dll y en nuestra propia clase, sino, el compilador no sabe a cual ir.
         public Entidades.Externa.ESexo Sexo
         {
             get

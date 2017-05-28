@@ -1,0 +1,7 @@
+C:\Users\gustavo\Desktop\Copia trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Libreria\bin\Debug\Clase15Libreria.dll
+C:\Users\gustavo\Desktop\Copia trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Libreria\bin\Debug\Clase15Libreria.pdb
+C:\Users\gustavo\Desktop\Copia trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Libreria\bin\Debug\Entidades.Externa.dll
+C:\Users\gustavo\Desktop\Copia trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Libreria\bin\Debug\Entidades.Externa.Sellada.dll
+C:\Users\gustavo\Desktop\Copia trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Libreria\obj\Debug\Clase15Libreria(MetodosDeExtension).csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\Copia trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Libreria\obj\Debug\Clase15Libreria.dll
+C:\Users\gustavo\Desktop\Copia trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Libreria\obj\Debug\Clase15Libreria.pdb
