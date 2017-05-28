@@ -10,7 +10,7 @@ namespace RecPrimerParcial
     {
         protected float _peso;
 
-        public Galletita(int codBarra, EMarcaProducto marca, float precio, float peso)
+        public Galletita(int codBarra, float precio, EMarcaProducto marca, float peso)
             : base(codBarra, marca, precio)
         {
             this._peso = peso;
@@ -39,6 +39,11 @@ namespace RecPrimerParcial
         public override string ToString()
         {
             return Galletita.MostrarGalletita(this);
+        }
+
+        public override bool Equals(object obj)
+        {
+            return (this.GetType() == obj.GetType());
         }
     }
 }

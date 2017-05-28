@@ -10,7 +10,7 @@ namespace RecPrimerParcial
     {
         protected ESaborJugo _sabor;
 
-        public Jugo(int codBarra, EMarcaProducto marca, float precio, ESaborJugo sabor) : base(codBarra,marca,precio)
+        public Jugo(int codBarra, float precio, EMarcaProducto marca, ESaborJugo sabor) : base(codBarra,marca,precio)
         {
             this._sabor = sabor;
         }
@@ -40,5 +40,9 @@ namespace RecPrimerParcial
             return base.Consumir() + "Bebible\n";
         }
 
+        public override bool Equals(object obj)
+        {
+            return (this.GetType() == obj.GetType());
+        }
     }
 }

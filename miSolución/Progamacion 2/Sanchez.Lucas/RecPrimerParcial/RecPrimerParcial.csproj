@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Enumerados.cs" />
+    <Compile Include="Estante.cs" />
     <Compile Include="Galletita.cs" />
     <Compile Include="Gaseosa.cs" />
     <Compile Include="Harina.cs" />
