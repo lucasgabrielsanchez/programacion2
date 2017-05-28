@@ -1,0 +1,6 @@
+C:\Users\gustavo\Desktop\Copia trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\RecPrimerParcial\bin\Debug\RecPrimerParcial.exe.config
+C:\Users\gustavo\Desktop\Copia trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\RecPrimerParcial\obj\Debug\RecPrimerParcial.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\Copia trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\RecPrimerParcial\bin\Debug\RecPrimerParcial.exe
+C:\Users\gustavo\Desktop\Copia trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\RecPrimerParcial\bin\Debug\RecPrimerParcial.pdb
+C:\Users\gustavo\Desktop\Copia trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\RecPrimerParcial\obj\Debug\RecPrimerParcial.exe
+C:\Users\gustavo\Desktop\Copia trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\RecPrimerParcial\obj\Debug\RecPrimerParcial.pdb
