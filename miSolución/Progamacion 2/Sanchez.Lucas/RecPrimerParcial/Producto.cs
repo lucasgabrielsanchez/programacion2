@@ -12,7 +12,9 @@ namespace RecPrimerParcial
         protected EMarcaProducto _marca;
         protected float _precio;
         protected static bool DeConsumo;
-        
+
+        public enum EMarcaProducto { Manaos, Pitusas, Naranjú, Diversión, Swift, Favorita }
+        public enum ETipoProducto { Galletita, Gaseosa, Jugo, Harina, Todos }
 
         public Producto(int codBarra, EMarcaProducto marca, float precio)
         {

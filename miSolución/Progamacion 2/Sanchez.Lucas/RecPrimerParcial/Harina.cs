@@ -10,6 +10,8 @@ namespace RecPrimerParcial
     {
         private ETipoHarina _tipo;
 
+        public enum ETipoHarina { CuatroCeros, TresCeros, Integral }
+
         public Harina(int codigo, float precio, EMarcaProducto marca, ETipoHarina tipo)
             : base(codigo, marca, precio)
         {

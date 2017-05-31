@@ -10,6 +10,8 @@ namespace RecPrimerParcial
     {
         protected ESaborJugo _sabor;
 
+        public enum ESaborJugo { Asqueroso, Pasable, Rico }
+
         public Jugo(int codBarra, float precio, EMarcaProducto marca, ESaborJugo sabor) : base(codBarra,marca,precio)
         {
             this._sabor = sabor;
