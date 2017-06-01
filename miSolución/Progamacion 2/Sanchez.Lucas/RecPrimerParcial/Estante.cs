@@ -30,7 +30,7 @@ namespace RecPrimerParcial
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendFormat("CAPACIDAD: {0}", e._capacidad);
+            sb.AppendFormat("CAPACIDAD: {0}\n", e._capacidad);
 
             foreach (Producto item in e._productos)
             {
@@ -92,7 +92,10 @@ namespace RecPrimerParcial
 
         public static Estante operator -(Estante e, Producto.ETipoProducto tipo) 
         {
-            int ElemDeList = e._productos.Count;
+
+            //Creo una cola a fin de utilizarla para guardar los objetos que necesito copiar de _productos
+            //para luego eliminarlos al finalizar el recorrido del for que identifica los tipos heredados de Producto.
+            Queue<Producto> elemList = new Queue<Producto>();
 
             for (int i = 0; i < e._productos.Count; i++)
             {
@@ -100,26 +103,38 @@ namespace RecPrimerParcial
                 {
                     case Producto.ETipoProducto.Galletita:
                         if (e._productos[i] is Galletita)
-                            e -= e._productos[i];
+                            //e -= e._productos[i];
+                            elemList.Enqueue(e._productos[i]);
                         break;
                     case Producto.ETipoProducto.Gaseosa:
                         if (e._productos[i] is Gaseosa)
-                            e -= e._productos[i];
+                            //e -= e._productos[i];
+                            elemList.Enqueue(e._productos[i]);
                         break;
                     case Producto.ETipoProducto.Jugo:
                         if (e._productos[i] is Jugo)
-                            e -= e._productos[i];
+                            //e -= e._productos[i];
+                            elemList.Enqueue(e._productos[i]);
                         break;
                     case Producto.ETipoProducto.Harina:
                         if (e._productos[i] is Harina)
-                            e -= e._productos[i];
+                            //e -= e._productos[i];
+                            elemList.Enqueue(e._productos[i]);
                         break;
                     case Producto.ETipoProducto.Todos:
-                        e -= e._productos[i];
+                        //e -= e._productos[i];
+                        elemList.Enqueue(e._productos[i]);
                         break;
                 }
             }
 
+            int elemCola = elemList.Count;//guardo la cantidad de elementos de la cola en una variable, porque dentro
+                                          //del for de abajo, su respectivo Count va a disminuir en cada Dequeue.
+            for (int i = 0; i < elemCola; i++)
+            {
+                e._productos.Remove(elemList.Dequeue());   
+            }
+           
             return e;
         }
 

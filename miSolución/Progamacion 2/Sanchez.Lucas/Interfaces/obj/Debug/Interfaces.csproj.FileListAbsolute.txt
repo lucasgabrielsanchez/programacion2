@@ -1,0 +1,5 @@
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Interfaces\bin\Debug\Entidades.dll
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Interfaces\obj\Debug\Entidades.dll
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Interfaces\obj\Debug\Entidades.pdb

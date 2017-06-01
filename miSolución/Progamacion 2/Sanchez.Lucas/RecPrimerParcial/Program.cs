@@ -8,6 +8,11 @@ namespace RecPrimerParcial
 {
     class Program
     {
+        static int OrdenarProductos(Producto uno, Producto dos)
+        {
+            return ((int)uno).CompareTo((int)dos);
+        }
+
         static void Main(string[] args)
         {
             Console.Title = "Primer Parcial Laboratorio II - 2016 -";

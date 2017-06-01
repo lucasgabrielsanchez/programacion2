@@ -10,3 +10,9 @@ D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\RecPrimerParcial\o
 D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\RecPrimerParcial\bin\Debug\RecPrimerParcial.exe
 D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\RecPrimerParcial\bin\Debug\RecPrimerParcial.pdb
 D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\RecPrimerParcial\obj\Debug\RecPrimerParcial.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\RecPrimerParcial\bin\Debug\RecPrimerParcial.exe.config
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\RecPrimerParcial\obj\Debug\RecPrimerParcial.exe
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\RecPrimerParcial\obj\Debug\RecPrimerParcial.pdb
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\RecPrimerParcial\bin\Debug\RecPrimerParcial.exe
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\RecPrimerParcial\bin\Debug\RecPrimerParcial.pdb
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\RecPrimerParcial\obj\Debug\RecPrimerParcial.csprojResolveAssemblyReference.cache
