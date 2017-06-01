@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Windows Desktop
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio1", "Ejercicio1\Ejercicio1.csproj", "{32B13F2B-5120-460A-ACF5-BF5DD007F271}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase03", "Clase 3\Clase03.csproj", "{B5337FFE-A9E9-4F86-90F8-44D05FE8DDEB}"
@@ -64,6 +64,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase15Consola(MetodosDeExtension)", "Clase15Consola\Clase15Consola(MetodosDeExtension).csproj", "{C77DD094-423B-4688-8B19-600CCB55FC79}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecPrimerParcial", "RecPrimerParcial\RecPrimerParcial.csproj", "{2D77EF30-159B-4ECA-B275-46EAD08EA34A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{918EDFE7-74AC-4EB1-9630-FA843DDC41E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -199,6 +201,10 @@ Global
 		{2D77EF30-159B-4ECA-B275-46EAD08EA34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D77EF30-159B-4ECA-B275-46EAD08EA34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D77EF30-159B-4ECA-B275-46EAD08EA34A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{918EDFE7-74AC-4EB1-9630-FA843DDC41E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918EDFE7-74AC-4EB1-9630-FA843DDC41E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918EDFE7-74AC-4EB1-9630-FA843DDC41E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918EDFE7-74AC-4EB1-9630-FA843DDC41E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

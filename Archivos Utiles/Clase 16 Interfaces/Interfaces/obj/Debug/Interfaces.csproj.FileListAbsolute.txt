@@ -1,0 +1,8 @@
+C:\Users\alumno\Desktop\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\alumno\Desktop\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\alumno\Desktop\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\alumno\Desktop\Interfaces\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\alumno\Desktop\Interfaces\obj\Debug\Interfaces.pdb

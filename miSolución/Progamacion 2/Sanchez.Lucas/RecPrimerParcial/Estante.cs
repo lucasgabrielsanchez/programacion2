@@ -72,6 +72,7 @@ namespace RecPrimerParcial
             {
                 if (e._productos.Count() < e._capacidad)
                 {
+                    e._productos.Add(p);
                     aux = true;
                 }
             }
@@ -91,6 +92,8 @@ namespace RecPrimerParcial
 
         public static Estante operator -(Estante e, Producto.ETipoProducto tipo) 
         {
+            int ElemDeList = e._productos.Count;
+
             for (int i = 0; i < e._productos.Count; i++)
             {
                 switch (tipo)
