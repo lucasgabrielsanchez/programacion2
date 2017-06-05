@@ -1,0 +1,11 @@
+Cuando se utiliza el método lista.Remove(objeto) de una lista, dicho método por medio del "Equals", busca y compara
+dentro de los elementos de la lista de la cual queremos remover el objeto, y cuando se encuentra igualdad con la dirección
+de memoria que el objeto posee, se elimina. Por eso se debe tener cuidado al Sobreescrivir (hacer override), del método
+Equals, ya que si cambiamos su comportamiento, el compilador ahora en vez de utilizar la definición original del Equals,
+utilizará el que nosotros sobreescribimos (siempre y cuando los objetos de la lista, pertenezcan a una clase que
+modificó al Equals). 
+Por ejemplo en el recuperatorio del primer parcial, se modifica el comportamiento del Equals, luego en la sobrecarga del
+operador "-", se hace un Remove de la lista que contiene objetos del tipo "Perro" y "Gato". Al modificarse el Equals
+para que devuelva "true" cuando los objetos comparados son del mismo "tipo" (.GetType), en vez de eliminarse en el Remove
+el elemento que coincide con la posición de memoria, se elimina el primero que coincide con el  "tipo" de objeto pasado como
+parámetro.
