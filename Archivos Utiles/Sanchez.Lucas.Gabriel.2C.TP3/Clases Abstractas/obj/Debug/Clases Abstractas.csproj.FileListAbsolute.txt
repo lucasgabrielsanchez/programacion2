@@ -1,0 +1,5 @@
+D:\Sanchez.Lucas.Gabriel.2C.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+D:\Sanchez.Lucas.Gabriel.2C.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+D:\Sanchez.Lucas.Gabriel.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+D:\Sanchez.Lucas.Gabriel.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+D:\Sanchez.Lucas.Gabriel.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

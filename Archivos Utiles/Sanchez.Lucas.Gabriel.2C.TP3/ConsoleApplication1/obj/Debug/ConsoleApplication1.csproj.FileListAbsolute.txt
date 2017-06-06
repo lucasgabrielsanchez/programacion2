@@ -1,0 +1,6 @@
+D:\Sanchez.Lucas.Gabriel.2C.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Sanchez.Lucas.Gabriel.2C.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Sanchez.Lucas.Gabriel.2C.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Sanchez.Lucas.Gabriel.2C.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Sanchez.Lucas.Gabriel.2C.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Sanchez.Lucas.Gabriel.2C.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
