@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Windows Desktop
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio1", "Ejercicio1\Ejercicio1.csproj", "{32B13F2B-5120-460A-ACF5-BF5DD007F271}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase03", "Clase 3\Clase03.csproj", "{B5337FFE-A9E9-4F86-90F8-44D05FE8DDEB}"
@@ -72,6 +72,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase17Libreria(Serialización)", "Clase17\Clase17Libreria(Serialización).csproj", "{7BB5111D-55BB-4FD5-AD5D-05A74F1060E1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase17Consola(Serialización)", "Clase17Consola\Clase17Consola(Serialización).csproj", "{951A9071-E10B-4273-B212-1DE1C63377E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase18Librería", "Clase18Librería\Clase18Librería.csproj", "{93D613DA-82A6-42F4-A97B-6C4CB170F818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase18Consola", "Clase18Consola\Clase18Consola.csproj", "{760FBF15-2BFA-4F98-BBD4-E1143B47CA29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -223,6 +227,14 @@ Global
 		{951A9071-E10B-4273-B212-1DE1C63377E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{951A9071-E10B-4273-B212-1DE1C63377E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{951A9071-E10B-4273-B212-1DE1C63377E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D613DA-82A6-42F4-A97B-6C4CB170F818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D613DA-82A6-42F4-A97B-6C4CB170F818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D613DA-82A6-42F4-A97B-6C4CB170F818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D613DA-82A6-42F4-A97B-6C4CB170F818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{760FBF15-2BFA-4F98-BBD4-E1143B47CA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760FBF15-2BFA-4F98-BBD4-E1143B47CA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760FBF15-2BFA-4F98-BBD4-E1143B47CA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760FBF15-2BFA-4F98-BBD4-E1143B47CA29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

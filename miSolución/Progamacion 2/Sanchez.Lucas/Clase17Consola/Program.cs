@@ -63,6 +63,7 @@ namespace Clase17Consola
 
             aulita.ListadoDePersonas.Add(per);
             aulita.ListadoDePersonas.Add(per1);
+            aulita.ListadoDePersonas.Add(al);
 
             aulita.serializarMe();
 

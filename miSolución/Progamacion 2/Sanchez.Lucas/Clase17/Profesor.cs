@@ -16,7 +16,7 @@ namespace Clase17
             set { this._titulo = value; }
         }
 
-        public Profesor()
+        public Profesor():base()
         {
         }
         
