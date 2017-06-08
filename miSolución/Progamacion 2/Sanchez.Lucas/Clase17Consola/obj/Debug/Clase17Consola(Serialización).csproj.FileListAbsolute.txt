@@ -6,3 +6,11 @@ D:\Copia-trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase17Consola\bi
 D:\Copia-trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase17Consola\obj\Debug\Clase17Consola(Serialización).csprojResolveAssemblyReference.cache
 D:\Copia-trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase17Consola\obj\Debug\Clase17Consola.exe
 D:\Copia-trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase17Consola\obj\Debug\Clase17Consola.pdb
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase17Consola\bin\Debug\Clase17Consola.exe.config
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase17Consola\obj\Debug\Clase17Consola.exe
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase17Consola\obj\Debug\Clase17Consola.pdb
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase17Consola\bin\Debug\Clase17Consola.exe
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase17Consola\bin\Debug\Clase17Consola.pdb
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase17Consola\bin\Debug\Clase17.dll
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase17Consola\bin\Debug\Clase17.pdb
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase17Consola\obj\Debug\Clase17Consola(Serialización).csprojResolveAssemblyReference.cache

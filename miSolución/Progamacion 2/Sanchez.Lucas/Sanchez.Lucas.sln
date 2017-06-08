@@ -69,6 +69,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesClases", "Interfa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesConsola", "Interfaces\Interfaces\InterfacesConsola.csproj", "{9FF2097E-B066-4F8B-BE4D-4EF9E9E1146E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase17Libreria(Serialización)", "Clase17\Clase17Libreria(Serialización).csproj", "{7BB5111D-55BB-4FD5-AD5D-05A74F1060E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase17Consola(Serialización)", "Clase17Consola\Clase17Consola(Serialización).csproj", "{951A9071-E10B-4273-B212-1DE1C63377E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -211,6 +215,14 @@ Global
 		{9FF2097E-B066-4F8B-BE4D-4EF9E9E1146E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FF2097E-B066-4F8B-BE4D-4EF9E9E1146E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FF2097E-B066-4F8B-BE4D-4EF9E9E1146E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BB5111D-55BB-4FD5-AD5D-05A74F1060E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB5111D-55BB-4FD5-AD5D-05A74F1060E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB5111D-55BB-4FD5-AD5D-05A74F1060E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB5111D-55BB-4FD5-AD5D-05A74F1060E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951A9071-E10B-4273-B212-1DE1C63377E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951A9071-E10B-4273-B212-1DE1C63377E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951A9071-E10B-4273-B212-1DE1C63377E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951A9071-E10B-4273-B212-1DE1C63377E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

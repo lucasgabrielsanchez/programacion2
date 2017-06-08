@@ -15,7 +15,16 @@ namespace Clase17
             get { return this._titulo; }
             set { this._titulo = value; }
         }
+
+        public Profesor()
+        {
+        }
         
+        public Profesor(string nombre, string apellido, int dni, string titulo) : base(nombre,apellido)
+        {
+            this.Dni = dni;
+            this.Titulo = titulo;
+        }
         
     }
 }

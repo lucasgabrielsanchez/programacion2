@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
+using System.Xml.Serialization;
 
 namespace Clase17
 {
@@ -48,9 +50,29 @@ namespace Clase17
 
         public bool serializarMe()
         {
+            XmlSerializer xs = new XmlSerializer(typeof(List<Persona>));
+
+            StreamWriter sw = new StreamWriter(AppDomain.CurrentDomain.BaseDirectory + "ListaPersonas.xml");
+
+            //foreach (Persona item in this._listadoDePersonas)
+            //{
+            //    xs.Serialize(sw, item);
+            //}
+
+            xs.Serialize(sw,this._listadoDePersonas);
+
+            sw.Close();
             return true;
         }
-        
+
+        public Persona DeserializarMe()
+        {
+            XmlSerializer xs = new XmlSerializer(typeof(Persona));
+
+            StreamReader sr = new StreamReader(AppDomain.CurrentDomain.BaseDirectory + "ListaPersonas.xml");
+
+            return (Persona)xs.Deserialize(sr);
+        }
         
     }
 }

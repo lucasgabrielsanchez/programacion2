@@ -16,7 +16,15 @@ namespace Clase17
             set { this._legajo = value; }
         }
 
-        
+        public Alumno()
+        {
+        }
+
+        public Alumno(string nombre, string apellido, int dni, int legajo) : base(nombre,apellido)
+        {
+            this.Dni = dni;
+            this.Legajo = legajo;
+        }
         
     }
 }

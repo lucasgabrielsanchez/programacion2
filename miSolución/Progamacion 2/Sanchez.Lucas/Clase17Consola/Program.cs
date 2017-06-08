@@ -44,17 +44,27 @@ namespace Clase17Consola
             Persona per = new Persona("Lucas", "Sanchez");
 
             Persona per1 = new Persona("Sabrina", "Veiga");
+
+            Alumno al = new Alumno("Nose", "QuePoner", 6475847, 72674);
+
+            Profesor pro = new Profesor("Juan", "Mediavilla",645376,"Técnico");
                                                                     
             //al.apellido = "Perez";                                  
             //al.nombre = "Ezequiel";
             //al.Legajo = 124578;
             //al.Dni = 784581;
 
-            Profesor pro = new Profesor();
+            
 
             //Console.WriteLine("Alumno {0} {1} -- Legajo: {2} -- Dni: {3}", al.apellido, al.nombre, al.Legajo, al.Dni);
 
-            //Aula aulita = new Aula(5, true, "Aula 2ºC");
+            Aula aulita = new Aula(5, true, "Aula 2ºC");
+
+
+            aulita.ListadoDePersonas.Add(per);
+            aulita.ListadoDePersonas.Add(per1);
+
+            aulita.serializarMe();
 
             //aulita.ListadoDePersonas.Add(al);
             //aulita.ListadoDePersonas.Add(pro);
@@ -70,19 +80,24 @@ namespace Clase17Consola
 
             //sr.Close();
 
-            using (StreamReader sr = new StreamReader(@"D:\Personas.txt"))
-            {
+            //using (StreamReader sr = new StreamReader(@"D:\Personas.txt"))
+            //la ruta que devuelde AppDomain.CurrentDomain.BaseDirectory es la de la carpeta del proyecto de consola que se
+            //está ejecutando y dentro de bin --> debug se encuentra el archivo. Le concatenamos un string con el nombre del archivo.
+            ////using (StreamReader sr = new StreamReader(AppDomain.CurrentDomain.BaseDirectory + "Personas.txt"))
+            //{
                 //todo código escrito dentro de un bloque using, al finalizar dicho bloque, se cierra automáticamente lo
                 //que dependa del objeto "sr", ya sea cerrar un archivo, base de datos, etc.
-                if (File.Exists(@"D:\Personas.txt"))
-                Console.WriteLine(sr.ReadToEnd());
-            }
+                //if (File.Exists(@"D:\Personas.txt"))
+                ////if (File.Exists(AppDomain.CurrentDomain.BaseDirectory + "Personas.txt"))
+                ////Console.WriteLine(sr.ReadToEnd());
+            //}
 
 
-            Program.SerializarPersona(per);
-            Program.SerializarPersona(per1);
+            //Program.SerializarPersona(per);
+            //Program.SerializarPersona(per1);
+            //Program.SerializarPersona(al);
 
-            Console.WriteLine((Program.DeserializarPersona()).apellido);
+            //Console.WriteLine((Program.DeserializarPersona()).apellido);
 
             //using (StreamReader sr = new StreamReader(@"D:\Personas.txt"))
             //{
