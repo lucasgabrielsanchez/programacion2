@@ -1,0 +1,8 @@
+D:\Copia-trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase17Consola\bin\Debug\Clase17Consola.exe.config
+D:\Copia-trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase17Consola\bin\Debug\Clase17Consola.exe
+D:\Copia-trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase17Consola\bin\Debug\Clase17Consola.pdb
+D:\Copia-trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase17Consola\bin\Debug\Clase17.dll
+D:\Copia-trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase17Consola\bin\Debug\Clase17.pdb
+D:\Copia-trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase17Consola\obj\Debug\Clase17Consola.csprojResolveAssemblyReference.cache
+D:\Copia-trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase17Consola\obj\Debug\Clase17Consola.exe
+D:\Copia-trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase17Consola\obj\Debug\Clase17Consola.pdb
