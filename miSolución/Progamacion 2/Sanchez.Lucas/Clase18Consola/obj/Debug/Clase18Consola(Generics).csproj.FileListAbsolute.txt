@@ -1,0 +1,8 @@
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Consola\bin\Debug\Clase18Consola.exe.config
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Consola\obj\Debug\Clase18Consola.exe
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Consola\obj\Debug\Clase18Consola.pdb
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Consola\bin\Debug\Clase18Consola.exe
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Consola\bin\Debug\Clase18Consola.pdb
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Consola\bin\Debug\Clase18Librería.dll
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Consola\bin\Debug\Clase18Librería.pdb
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Consola\obj\Debug\Clase18Consola(Generics).csprojResolveAssemblyReference.cache

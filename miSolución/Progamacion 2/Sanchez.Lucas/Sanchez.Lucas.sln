@@ -73,9 +73,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase17Libreria(Serializaci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase17Consola(Serialización)", "Clase17Consola\Clase17Consola(Serialización).csproj", "{951A9071-E10B-4273-B212-1DE1C63377E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase18Librería", "Clase18Librería\Clase18Librería.csproj", "{93D613DA-82A6-42F4-A97B-6C4CB170F818}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase18Librería(Generics)", "Clase18Librería\Clase18Librería(Generics).csproj", "{93D613DA-82A6-42F4-A97B-6C4CB170F818}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase18Consola", "Clase18Consola\Clase18Consola.csproj", "{760FBF15-2BFA-4F98-BBD4-E1143B47CA29}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase18Consola(Generics)", "Clase18Consola\Clase18Consola(Generics).csproj", "{760FBF15-2BFA-4F98-BBD4-E1143B47CA29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
