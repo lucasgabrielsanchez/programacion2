@@ -3,3 +3,8 @@ D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Librería\o
 D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Librería\bin\Debug\Clase18Librería.dll
 D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Librería\bin\Debug\Clase18Librería.pdb
 D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Librería\obj\Debug\Clase18Librería(Generics).csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Librería\bin\Debug\Clase18Librería.dll
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Librería\bin\Debug\Clase18Librería.pdb
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Librería\obj\Debug\Clase18Librería(Generics).csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Librería\obj\Debug\Clase18Librería.dll
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Librería\obj\Debug\Clase18Librería.pdb

@@ -27,7 +27,7 @@ namespace Clase18Consola
 
             //Console.ReadLine();
 
-            Auto a1 = new Auto("Rojo", "Ferrari");
+            /*Auto a1 = new Auto("Rojo", "Ferrari");
             Auto a2 = new Auto("Amarillo", "Porche");
             Auto a3 = new Auto("Negro", "BMW");
             Auto a4 = new Auto("Verde", "Ford");
@@ -90,18 +90,17 @@ namespace Clase18Consola
             Console.WriteLine(dc);
            
             Console.ReadLine();
-            Console.Clear();
+            Console.Clear();*/
 
-            //terminar esta parte
-            Cocina cc1 = new Cocina(111, 12300, false);
-            Cocina cc2 = new Cocina(112, 15000, true);
-            Cocina cc3 = new Cocina(113, 5600, false);
-            Auto aa1 = new Auto("Rojo", "Ferrari");
-            Auto aa2 = new Auto("Amarillo", "Porche");
-            Auto aa3 = new Auto("Negro", "BMW");
-            Auto aa4 = new Auto("Verde", "Ford");
-            Deposito_Genérico<Cocina> ddc = new Deposito_Genérico<Cocina>(5);
-            Deposito_Genérico<Auto> dda = new Deposito_Genérico<Auto>(3);
+            Cocina c1 = new Cocina(111, 12300, false);
+            Cocina c2 = new Cocina(112, 15000, true);
+            Cocina c3 = new Cocina(113, 5600, false);
+            Auto a1 = new Auto("Rojo", "Ferrari");
+            Auto a2 = new Auto("Amarillo", "Porche");
+            Auto a3 = new Auto("Negro", "BMW");
+            Auto a4 = new Auto("Verde", "Ford");
+            Deposito<Cocina> dc = new Deposito<Cocina>(5);
+            Deposito<Auto> da = new Deposito<Auto>(3);
             dc.Agregar(c1);
             dc.Agregar(c2);
             if (!(dc + c3))

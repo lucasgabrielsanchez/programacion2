@@ -6,3 +6,11 @@ D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Consola\bin
 D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Consola\bin\Debug\Clase18Librería.dll
 D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Consola\bin\Debug\Clase18Librería.pdb
 D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Consola\obj\Debug\Clase18Consola(Generics).csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Consola\bin\Debug\Clase18Consola.exe.config
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Consola\obj\Debug\Clase18Consola.exe
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Consola\obj\Debug\Clase18Consola.pdb
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Consola\bin\Debug\Clase18Consola.exe
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Consola\bin\Debug\Clase18Consola.pdb
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Consola\bin\Debug\Clase18Librería.dll
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Consola\bin\Debug\Clase18Librería.pdb
+C:\Users\gustavo\Desktop\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase18Consola\obj\Debug\Clase18Consola(Generics).csprojResolveAssemblyReference.cache
