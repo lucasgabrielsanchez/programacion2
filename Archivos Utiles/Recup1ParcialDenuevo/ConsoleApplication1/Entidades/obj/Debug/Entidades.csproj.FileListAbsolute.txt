@@ -8,3 +8,8 @@ C:\Users\gustavo\Desktop\programacion2-master\Archivos Utiles\Recup1ParcialDenue
 C:\Users\gustavo\Desktop\programacion2-master\Archivos Utiles\Recup1ParcialDenuevo\ConsoleApplication1\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\Users\gustavo\Desktop\programacion2-master\Archivos Utiles\Recup1ParcialDenuevo\ConsoleApplication1\Entidades\obj\Debug\Entidades.dll
 C:\Users\gustavo\Desktop\programacion2-master\Archivos Utiles\Recup1ParcialDenuevo\ConsoleApplication1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\gustavo\Desktop\trabajandoGit - copia\Archivos Utiles\Recup1ParcialDenuevo\ConsoleApplication1\Entidades\bin\Debug\Entidades.dll
+C:\Users\gustavo\Desktop\trabajandoGit - copia\Archivos Utiles\Recup1ParcialDenuevo\ConsoleApplication1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\gustavo\Desktop\trabajandoGit - copia\Archivos Utiles\Recup1ParcialDenuevo\ConsoleApplication1\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\trabajandoGit - copia\Archivos Utiles\Recup1ParcialDenuevo\ConsoleApplication1\Entidades\obj\Debug\Entidades.dll
+C:\Users\gustavo\Desktop\trabajandoGit - copia\Archivos Utiles\Recup1ParcialDenuevo\ConsoleApplication1\Entidades\obj\Debug\Entidades.pdb

@@ -33,10 +33,14 @@ namespace Entidades
         }
 
         public override bool Equals(object obj)
-        {
-            //return ((this.GetType()) == (obj.GetType()));
-            return (this == obj); //modificado a fin de que no genere un mal borrado de objetos dentro del método "Remove"
-            //ubicado en la sobrecarga del operador "-" dentro de la clase "Grupo".
+        {   
+            bool aux = false; //return ((this.GetType()) == (obj.GetType()));
+
+            if (obj is Gato) //modificado a fin de que no genere un mal borrado de objetos dentro del método "Remove"
+                if (((Gato)obj) == this) //ubicado en la sobrecarga del operador "-" dentro de la clase "Grupo".
+                    aux = true;
+
+            return aux;
         }
 
 
