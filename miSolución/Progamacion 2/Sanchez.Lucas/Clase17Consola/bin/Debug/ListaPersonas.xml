@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfPersona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Persona>
-    <Dni>0</Dni>
+    <Dni>123345567</Dni>
     <nombre>Lucas</nombre>
     <apellido>Sanchez</apellido>
   </Persona>
   <Persona>
-    <Dni>0</Dni>
+    <Dni>98876764</Dni>
     <nombre>Sabrina</nombre>
     <apellido>Veiga</apellido>
+  </Persona>
+  <Persona xsi:type="Alumno">
+    <Dni>6475847</Dni>
+    <nombre>Nose</nombre>
+    <apellido>QuePoner</apellido>
+    <_legajo>72674</_legajo>
+    <Legajo>72674</Legajo>
+  </Persona>
+  <Persona xsi:type="Alumno">
+    <Dni>64758478</Dni>
+    <nombre>Nosee</nombre>
+    <apellido>QuePonerr</apellido>
+    <_legajo>726748</_legajo>
+    <Legajo>726748</Legajo>
+  </Persona>
+  <Persona xsi:type="Profesor">
+    <Dni>645376</Dni>
+    <nombre>Juan</nombre>
+    <apellido>Mediavilla</apellido>
+    <Titulo>Técnico</Titulo>
   </Persona>
 </ArrayOfPersona>

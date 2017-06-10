@@ -65,14 +65,14 @@ namespace Clase17
             return true;
         }
 
-        public Persona DeserializarMe()
+        public List<Persona> DeserializarMe()
         {
-            XmlSerializer xs = new XmlSerializer(typeof(Persona));
+            XmlSerializer xs = new XmlSerializer(typeof(List<Persona>));
 
             StreamReader sr = new StreamReader(AppDomain.CurrentDomain.BaseDirectory + "ListaPersonas.xml");
 
-            return (Persona)xs.Deserialize(sr);
+            return (List<Persona>)xs.Deserialize(sr);
         }
-        
+
     }
 }

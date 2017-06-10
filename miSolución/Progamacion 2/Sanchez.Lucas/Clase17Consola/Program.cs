@@ -41,11 +41,12 @@ namespace Clase17Consola
         {
 
 
-            Persona per = new Persona("Lucas", "Sanchez");
+            Persona per = new Persona("Lucas", "Sanchez",123345567);
 
-            Persona per1 = new Persona("Sabrina", "Veiga");
+            Persona per1 = new Persona("Sabrina", "Veiga", 098876764);
 
             Alumno al = new Alumno("Nose", "QuePoner", 6475847, 72674);
+            Alumno al1 = new Alumno("Nosee", "QuePonerr", 64758478, 726748);
 
             Profesor pro = new Profesor("Juan", "Mediavilla",645376,"Técnico");
                                                                     
@@ -64,8 +65,18 @@ namespace Clase17Consola
             aulita.ListadoDePersonas.Add(per);
             aulita.ListadoDePersonas.Add(per1);
             aulita.ListadoDePersonas.Add(al);
+            aulita.ListadoDePersonas.Add(al1);
+            aulita.ListadoDePersonas.Add(pro);
+
 
             aulita.serializarMe();
+
+
+            //recorro Personas en aulita.DeserializarMe() que invoca a la lista de Personas deserializada
+            foreach (Persona item in aulita.DeserializarMe()) 
+            {
+                Console.WriteLine(item);
+            }
 
             //aulita.ListadoDePersonas.Add(al);
             //aulita.ListadoDePersonas.Add(pro);

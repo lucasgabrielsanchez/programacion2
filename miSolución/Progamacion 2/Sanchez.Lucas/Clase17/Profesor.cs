@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace Clase17
 {
@@ -16,15 +17,18 @@ namespace Clase17
             set { this._titulo = value; }
         }
 
-        public Profesor():base()
+        public Profesor()
         {
         }
         
-        public Profesor(string nombre, string apellido, int dni, string titulo) : base(nombre,apellido)
+        public Profesor(string nombre, string apellido, int dni, string titulo) : base(nombre,apellido,dni)
         {
-            this.Dni = dni;
             this.Titulo = titulo;
         }
-        
+
+        public override string ToString()
+        {
+            return base.ToString() + "*Título: " + this._titulo;
+        }
     }
 }

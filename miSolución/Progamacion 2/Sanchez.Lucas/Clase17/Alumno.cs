@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace Clase17
 {
+    
     public class Alumno: Persona
     {
-        private int _legajo;
+        public int _legajo;
 
         public int Legajo
         {
@@ -20,11 +21,14 @@ namespace Clase17
         {
         }
 
-        public Alumno(string nombre, string apellido, int dni, int legajo) : base(nombre,apellido)
+        public Alumno(string nombre, string apellido, int dni, int legajo) : base(nombre,apellido,dni)
         {
-            this.Dni = dni;
             this.Legajo = legajo;
         }
-        
+
+        public override string ToString()
+        {
+            return base.ToString() + "*Legajo: " + this._legajo;
+        }
     }
 }
