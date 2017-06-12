@@ -1,0 +1,6 @@
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\bin\Debug\CentralitaSerializacionExcepeciones.exe.config
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\bin\Debug\CentralitaSerializacionExcepeciones.exe
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\bin\Debug\CentralitaSerializacionExcepeciones.pdb
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\obj\Debug\CentralitaSerializacionExcepeciones.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\obj\Debug\CentralitaSerializacionExcepeciones.exe
+C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\obj\Debug\CentralitaSerializacionExcepeciones.pdb
