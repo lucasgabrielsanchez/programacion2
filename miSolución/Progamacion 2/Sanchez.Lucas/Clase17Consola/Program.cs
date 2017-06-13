@@ -9,6 +9,19 @@ using System.Xml.Serialization;
 
 namespace Clase17Consola
 {
+    /*[IMPORTANTE]: *Para serializar una clase se deben agregar las directivas using System.Xml.Serialization y using System.IO.
+         * *El orden en el que estén los atributos públicos (si hay), y/o las propiedades completas (get y set)
+         es el orden en el que aparecerán en el archivo serializado. Por ejemplo en este caso aparece pripero la propiedad Internet,
+         luego la propiedad Nombre, luego la propiedad Numero, luego la propiedad ListaDePersonas
+         *Una colección: ya sea List, Qeue, etc, en una propiedad no necesita tener (get y set) para ser serializada, alcanza con que
+         tenga el set que traiga a la lista, como en este caso la propiedad (ListadoDePersonas)
+         *Una clase para poder ser serializada debe ser pública y tener un constructor por default (REQUISITOS OBLIGATORIOS)
+         *Los elementos que se pueden serializar de una clase, son aquellas propiedades completas (get y set) públicas y los atributos
+         públicos, y las propiedades de solo lectura que invoquen a una lista(comentado arriba), si no posee ninguno de ellos, se generará 
+         la serialización pero no se verán datos de la clase.
+         *Al serializar una clase que contenga hijos, o una lista que contenga una clase con hijos, en la clase padre se deben agregar las sentencias
+         [XmlInclude(typeof(ClaseHija))] por cada hijo que esa clase contenga. Sino el programa pincha.*/
+
     class Program
     {
         private static bool SerializarPersona(Persona p)//Para serializar una clase, la clase debe tener un constructor por defecto explícito,
@@ -59,7 +72,7 @@ namespace Clase17Consola
 
             //Console.WriteLine("Alumno {0} {1} -- Legajo: {2} -- Dni: {3}", al.apellido, al.nombre, al.Legajo, al.Dni);
 
-            Aula aulita = new Aula(5, true, "Aula 2ºC");
+            Aula aulita = new Aula(5, true, "Aula Verde");
 
 
             aulita.ListadoDePersonas.Add(per);
@@ -69,14 +82,20 @@ namespace Clase17Consola
             aulita.ListadoDePersonas.Add(pro);
 
 
-            aulita.serializarMe();
+            aulita.serializarMeLista(); //serialización de la lista sola
 
 
             //recorro Personas en aulita.DeserializarMe() que invoca a la lista de Personas deserializada
-            foreach (Persona item in aulita.DeserializarMe()) 
+            foreach (Persona item in aulita.DeserializarMeLista())  //deserialización de la lista sola
             {
                 Console.WriteLine(item);
             }
+
+            Console.WriteLine();
+
+            aulita.serializarMe(); //serialización aula completa
+
+            Console.WriteLine(aulita.DeserializarMe()); //deserialización aula completa
 
             //aulita.ListadoDePersonas.Add(al);
             //aulita.ListadoDePersonas.Add(pro);
