@@ -4,3 +4,9 @@ C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.
 C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\obj\Debug\CentralitaSerializacionExcepeciones.csprojResolveAssemblyReference.cache
 C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\obj\Debug\CentralitaSerializacionExcepeciones.exe
 C:\Users\gustavo\Desktop\programacion2-master\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\obj\Debug\CentralitaSerializacionExcepeciones.pdb
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\bin\Debug\CentralitaSerializacionExcepeciones.exe.config
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\obj\Debug\CentralitaSerializacionExcepeciones.exe
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\obj\Debug\CentralitaSerializacionExcepeciones.pdb
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\bin\Debug\CentralitaSerializacionExcepeciones.exe
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\bin\Debug\CentralitaSerializacionExcepeciones.pdb
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\obj\Debug\CentralitaSerializacionExcepeciones.csprojResolveAssemblyReference.cache

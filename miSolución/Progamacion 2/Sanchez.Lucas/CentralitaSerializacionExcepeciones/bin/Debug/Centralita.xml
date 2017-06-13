@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Centralita xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Llamadas>
+    <Llamada xsi:type="Local" />
+    <Llamada xsi:type="Provincial" />
+  </Llamadas>
+  <RazonSocial>Telefonica</RazonSocial>
+  <RutaDeArchivo>D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\bin\Debug\Centralita.xml</RutaDeArchivo>
+</Centralita>

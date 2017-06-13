@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace CentralitaSerializacionExcepeciones
 {
-    class Provincial : Llamada
-    {
+    public class Provincial : Llamada //modificador de visibilidad "public" agregado para poder serializar esta clase
+    {                                 //que además está dentro de la lista de llamadas de Centralita, igual es necesario que sea pública.
         private Franja _franjaHoraria;
 
         public Provincial()//Agregado para poder serializar

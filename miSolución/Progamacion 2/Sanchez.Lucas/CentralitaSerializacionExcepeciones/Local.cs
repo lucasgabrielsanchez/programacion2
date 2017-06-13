@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace CentralitaSerializacionExcepeciones
 {
-    class Local : Llamada
-    {
+    public class Local : Llamada//modificador de visibilidad "public" agregado para poder serializar esta clase
+    {                           ////que además está dentro de la lista de llamadas de Centralita, igual es necesario que sea pública.
         private float _costo;
 
         public override float CostoLlamada

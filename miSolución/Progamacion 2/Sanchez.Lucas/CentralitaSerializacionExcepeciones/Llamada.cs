@@ -3,9 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace CentralitaSerializacionExcepeciones
 {
+    [XmlInclude(typeof(Local))]
+    [XmlInclude(typeof(Provincial))]
+
     public abstract class Llamada//modificador de visibilidad "public" agregado para poder serializar esta clase.
     {
         protected float _duracion;

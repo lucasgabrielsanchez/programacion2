@@ -26,10 +26,11 @@ namespace CentralitaSerializacionExcepeciones
 
             Console.WriteLine(centralita);
 
-            centralita.RutaDeArchivo = AppDomain.CurrentDomain.BaseDirectory + "Centralita.xml";
-
+            centralita.RutaDeArchivo = (AppDomain.CurrentDomain.BaseDirectory + "Centralita.xml");
+            
+            
             centralita.Serializarse();
-
+            
             Console.ReadLine();
         }
     }

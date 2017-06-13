@@ -8,7 +8,7 @@ using System.IO;
 
 namespace CentralitaSerializacionExcepeciones
 {
-    class Centralita : ISerializable
+    public class Centralita : ISerializable //modificador de visivilidad cambiado para poder ser serializado.
     {
         private List<Llamada> _listaDeLlamadas;
         protected string _razonSocial;
@@ -101,13 +101,30 @@ namespace CentralitaSerializacionExcepeciones
             }
         }
 
-        public List<Llamada> Llamadas
-        {
+        public List<Llamada> Llamadas //set agregado con respecto al ejercicio anterior
+        {                             
             get
             {
                 return this._listaDeLlamadas;
             }
+            set
+            {
+                this._listaDeLlamadas = value;
+            }
         }
+
+        public string RazonSocial // agregado con respecto al ejercicio anterior
+        {
+            get { return this._razonSocial; }
+            set { this._razonSocial = value; }
+        }
+
+        public string RutaDeArchivo // Agregado con respecto al ejercicio anterior.
+        {                           // Propiedad escrita que pertenece a la interface ISerializable.
+            get { return this._ruta; }
+            set { this._ruta = value; }
+        }
+        
 
         public override string ToString()
         {
@@ -181,26 +198,22 @@ namespace CentralitaSerializacionExcepeciones
 
         }
 
-        public string RutaDeArchivo //propiedad escrita de la Interfaz ISerializable
-        {
-            get { return this._ruta; }
-            set { this._ruta = value; }
-        }
 
         public bool Serializarse()
         {
             try
             {
-                XmlSerializer xs = new XmlSerializer(typeof(List<Llamada>));
+                XmlSerializer xs = new XmlSerializer(typeof(Centralita));
                 StreamWriter sw = new StreamWriter(this._ruta);
-                xs.Serialize(sw, this._listaDeLlamadas);
+                xs.Serialize(sw, this);
                 sw.Close();
                 return true;
             }
             catch (Exception e)
             {
-                Console.WriteLine(e.Message);
-                return false;
+                throw e;
+                //Console.WriteLine(e.Message);
+                //return false;
             }
         }
 
