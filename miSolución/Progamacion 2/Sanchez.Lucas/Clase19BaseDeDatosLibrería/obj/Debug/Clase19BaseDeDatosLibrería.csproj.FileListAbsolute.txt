@@ -1,0 +1,6 @@
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosLibrería\bin\Debug\Clase19BaseDeDatosLibrería.dll.config
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosLibrería\bin\Debug\Clase19BaseDeDatosLibrería.dll
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosLibrería\bin\Debug\Clase19BaseDeDatosLibrería.pdb
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosLibrería\obj\Debug\Clase19BaseDeDatosLibrería.csprojResolveAssemblyReference.cache
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosLibrería\obj\Debug\Clase19BaseDeDatosLibrería.dll
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosLibrería\obj\Debug\Clase19BaseDeDatosLibrería.pdb
