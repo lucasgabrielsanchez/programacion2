@@ -13,7 +13,7 @@ namespace CentralitaSerializacionExcepeciones
         private List<Llamada> _listaDeLlamadas;
         protected string _razonSocial;
         private string _ruta;
-
+        
         private Centralita()
         {
             this._listaDeLlamadas = new List<Llamada>();
@@ -157,6 +157,15 @@ namespace CentralitaSerializacionExcepeciones
         private void AgregarLlamada(Llamada nuevaLlamada)
         {
             this._listaDeLlamadas.Add(nuevaLlamada);
+            try
+            {
+                this.GuardarEnArchivo(nuevaLlamada, true);
+            }
+            catch (Exception e)
+            {
+                CentralitaException CE = new CentralitaException(e.Message, this.GetType().Name, "Método AgregarLLamada",e);
+                Console.WriteLine("La excepción es: {0} - La clase que la causó es: {1} - El método que lo causó es: {2}", CE.ExcepcionInterna.Message, CE.NombreClase, CE.NombreMetodo);
+            }
         }
 
         public static bool operator ==(Centralita cent, Llamada llamadaNueva)
@@ -183,43 +192,83 @@ namespace CentralitaSerializacionExcepeciones
 
 
         public static Centralita operator +(Centralita cen, Llamada llamadaNueva)
-        {
+        {   
             if (cen != llamadaNueva)
             {
                 cen.AgregarLlamada(llamadaNueva);
             }
             else
             {
-                Console.WriteLine("La llamada ya existe dentro de la central");
-                Console.ReadLine();
+                throw new CentralitaException("La central ya tiene esta llamada", typeof(Centralita).Name, "Operador +");
+                //Console.WriteLine("La llamada ya existe dentro de la central");
+                //Console.ReadLine();
             }
 
             return cen;
-
         }
 
 
-        public bool Serializarse()
+        public bool Serializarse() //método implementado de la interfaz ISerializable
         {
+            bool aux = false;
             try
             {
                 XmlSerializer xs = new XmlSerializer(typeof(Centralita));
                 StreamWriter sw = new StreamWriter(this._ruta);
                 xs.Serialize(sw, this);
                 sw.Close();
-                return true;
+                aux = true;
+            }
+            catch (Exception e)
+            {
+                CentralitaException CE = new CentralitaException(e.Message, this.GetType().Name, "Método Serializarse", e);
+                aux = false;
+                throw CE;
+            }
+
+            return aux;
+        }
+
+        public bool Deserializarse() //método implementado de la interfaz ISerializable
+        {
+            bool aux = false;
+            try
+            {
+                XmlSerializer xs = new XmlSerializer(typeof(Centralita));
+                StreamReader sr = new StreamReader(this.RutaDeArchivo);
+                xs.Deserialize(sr);
+                sr.Close();
+                aux = true;
+            }
+            catch (Exception e)
+            {
+                CentralitaException CE = new CentralitaException(e.Message, this.GetType().Name, "Método Deserializarse", e);
+                throw CE;
+            }
+            return aux;
+        }
+
+        private bool GuardarEnArchivo(Llamada unaLlamada, bool agrego)
+        {
+            bool aux = false;
+            try
+            {
+                StreamWriter sw = new StreamWriter(this._ruta + "Llamadas.txt", agrego);//si la ruta es null o no está cargada, por defecto se guarda en la carpeta del programa.
+                sw.WriteLine("Fecha y Hora: {0}" ,DateTime.Now);
+                sw.WriteLine(unaLlamada);
+                sw.Close();
+                aux = true;
             }
             catch (Exception e)
             {
                 throw e;
-                //Console.WriteLine(e.Message);
-                //return false;
             }
+            return aux;
         }
 
-        public bool Deserializarse()
+        public void OrdenarLlamadas()
         {
-            return true;
+            this._listaDeLlamadas.Sort(Llamada.OrdenarPorDuracion);//cuando se llama a un método de ordenamiento no se le pasan parámetros, inclusive si este método los pidiese, como es este caso.
         }
 
     }

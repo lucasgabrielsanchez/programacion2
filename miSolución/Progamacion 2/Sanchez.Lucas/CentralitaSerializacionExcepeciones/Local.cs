@@ -16,6 +16,7 @@ namespace CentralitaSerializacionExcepeciones
             {
                 return this.CalcularCosto();
             }
+
         }
 
         public Local() //Agregado para poder serializar
