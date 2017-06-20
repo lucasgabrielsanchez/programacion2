@@ -134,3 +134,229 @@ Duración: 0,21
 Franja horaria: Franja_1
 El Costo es de: $0,2079
 
+Fecha y Hora: 19/06/2017 20:52:41
+Llamada Local: 
+-------------------------------
+Nro Origen: 1234
+Nro Destino: 4321
+Duración: 0,3
+El costo es de: $0,7950001
+
+Fecha y Hora: 19/06/2017 20:52:41
+Llamada Provincial: 
+-------------------------------
+Nro Origen: 4444
+Nro Destino: 5555
+Duración: 0,21
+Franja horaria: Franja_1
+El Costo es de: $0,2079
+
+Fecha y Hora: 19/06/2017 20:52:58
+Llamada Local: 
+-------------------------------
+Nro Origen: 1234
+Nro Destino: 4321
+Duración: 0,3
+El costo es de: $0,7950001
+
+Fecha y Hora: 19/06/2017 20:52:58
+Llamada Provincial: 
+-------------------------------
+Nro Origen: 4444
+Nro Destino: 5555
+Duración: 0,21
+Franja horaria: Franja_1
+El Costo es de: $0,2079
+
+Fecha y Hora: 19/06/2017 20:53:12
+Llamada Local: 
+-------------------------------
+Nro Origen: 1234
+Nro Destino: 4321
+Duración: 0,3
+El costo es de: $0,7950001
+
+Fecha y Hora: 19/06/2017 20:53:12
+Llamada Provincial: 
+-------------------------------
+Nro Origen: 4444
+Nro Destino: 5555
+Duración: 0,21
+Franja horaria: Franja_1
+El Costo es de: $0,2079
+
+Fecha y Hora: 19/06/2017 20:54:11
+Llamada Local: 
+-------------------------------
+Nro Origen: 1234
+Nro Destino: 4321
+Duración: 0,3
+El costo es de: $0,7950001
+
+Fecha y Hora: 19/06/2017 20:54:11
+Llamada Provincial: 
+-------------------------------
+Nro Origen: 4444
+Nro Destino: 5555
+Duración: 0,21
+Franja horaria: Franja_1
+El Costo es de: $0,2079
+
+Fecha y Hora: 19/06/2017 20:54:11
+Llamada Local: 
+-------------------------------
+Nro Origen: 9999
+Nro Destino: 3333
+Duración: 0,45
+El costo es de: $0,8955
+
+Fecha y Hora: 19/06/2017 20:55:25
+Llamada Local: 
+-------------------------------
+Nro Origen: 1234
+Nro Destino: 4321
+Duración: 0,3
+El costo es de: $0,7950001
+
+Fecha y Hora: 19/06/2017 20:55:25
+Llamada Provincial: 
+-------------------------------
+Nro Origen: 4444
+Nro Destino: 5555
+Duración: 0,21
+Franja horaria: Franja_1
+El Costo es de: $0,2079
+
+Fecha y Hora: 19/06/2017 20:55:25
+Llamada Local: 
+-------------------------------
+Nro Origen: 9999
+Nro Destino: 3333
+Duración: 0,45
+El costo es de: $0,8955
+
+Fecha y Hora: 19/06/2017 20:58:23
+Llamada Local: 
+-------------------------------
+Nro Origen: 1234
+Nro Destino: 4321
+Duración: 0,3
+El costo es de: $0,7950001
+
+Fecha y Hora: 19/06/2017 20:58:23
+Llamada Provincial: 
+-------------------------------
+Nro Origen: 4444
+Nro Destino: 5555
+Duración: 0,21
+Franja horaria: Franja_1
+El Costo es de: $0,2079
+
+Fecha y Hora: 19/06/2017 20:58:23
+Llamada Local: 
+-------------------------------
+Nro Origen: 9999
+Nro Destino: 3333
+Duración: 0,45
+El costo es de: $0,8955
+
+Fecha y Hora: 19/06/2017 21:01:32
+Llamada Local: 
+-------------------------------
+Nro Origen: 1234
+Nro Destino: 4321
+Duración: 0,3
+El costo es de: $0,7950001
+
+Fecha y Hora: 19/06/2017 21:01:32
+Llamada Provincial: 
+-------------------------------
+Nro Origen: 4444
+Nro Destino: 5555
+Duración: 0,21
+Franja horaria: Franja_1
+El Costo es de: $0,2079
+
+Fecha y Hora: 19/06/2017 21:01:32
+Llamada Local: 
+-------------------------------
+Nro Origen: 9999
+Nro Destino: 3333
+Duración: 0,45
+El costo es de: $0,8955
+
+Fecha y Hora: 19/06/2017 21:02:07
+Llamada Local: 
+-------------------------------
+Nro Origen: 1234
+Nro Destino: 4321
+Duración: 0,3
+El costo es de: $0,7950001
+
+Fecha y Hora: 19/06/2017 21:02:07
+Llamada Provincial: 
+-------------------------------
+Nro Origen: 4444
+Nro Destino: 5555
+Duración: 0,21
+Franja horaria: Franja_1
+El Costo es de: $0,2079
+
+Fecha y Hora: 19/06/2017 21:02:07
+Llamada Local: 
+-------------------------------
+Nro Origen: 9999
+Nro Destino: 3333
+Duración: 0,45
+El costo es de: $0,8955
+
+Fecha y Hora: 19/06/2017 21:02:33
+Llamada Local: 
+-------------------------------
+Nro Origen: 1234
+Nro Destino: 4321
+Duración: 0,3
+El costo es de: $0,7950001
+
+Fecha y Hora: 19/06/2017 21:02:33
+Llamada Provincial: 
+-------------------------------
+Nro Origen: 4444
+Nro Destino: 5555
+Duración: 0,21
+Franja horaria: Franja_1
+El Costo es de: $0,2079
+
+Fecha y Hora: 19/06/2017 21:02:33
+Llamada Local: 
+-------------------------------
+Nro Origen: 9999
+Nro Destino: 3333
+Duración: 0,45
+El costo es de: $0,8955
+
+Fecha y Hora: 19/06/2017 21:06:47
+Llamada Local: 
+-------------------------------
+Nro Origen: 1234
+Nro Destino: 4321
+Duración: 0,3
+El costo es de: $0,7950001
+
+Fecha y Hora: 19/06/2017 21:06:47
+Llamada Provincial: 
+-------------------------------
+Nro Origen: 4444
+Nro Destino: 5555
+Duración: 0,21
+Franja horaria: Franja_1
+El Costo es de: $0,2079
+
+Fecha y Hora: 19/06/2017 21:06:47
+Llamada Local: 
+-------------------------------
+Nro Origen: 9999
+Nro Destino: 3333
+Duración: 0,45
+El costo es de: $0,8955
+

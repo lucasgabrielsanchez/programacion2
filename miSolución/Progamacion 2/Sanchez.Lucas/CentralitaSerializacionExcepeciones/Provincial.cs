@@ -39,6 +39,11 @@ namespace CentralitaSerializacionExcepeciones
             {
                 return this.CalcularCosto();
             }
+
+            set//agregado para ser serializado
+            {
+                ;
+            }
         }
 
         private float CalcularCosto()

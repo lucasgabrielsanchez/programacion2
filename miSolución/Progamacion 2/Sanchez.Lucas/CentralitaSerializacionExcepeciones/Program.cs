@@ -24,7 +24,7 @@ namespace CentralitaSerializacionExcepeciones
             {
                 centralita += local1;
                 centralita += provincial1;
-                centralita += provincial1; //Agrego la misma llamada para comprobar que al existir dicha llamada en la lista
+                //centralita += provincial1; //Agrego la misma llamada para comprobar que al existir dicha llamada en la lista
                                            //de centralita, no la vuelva a agregar.
                 centralita += local2;
                 centralita += provincial2;

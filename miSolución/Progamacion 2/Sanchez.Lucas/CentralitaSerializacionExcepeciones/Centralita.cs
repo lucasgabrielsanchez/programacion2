@@ -13,15 +13,16 @@ namespace CentralitaSerializacionExcepeciones
         private List<Llamada> _listaDeLlamadas;
         protected string _razonSocial;
         private string _ruta;
-        
+
+
+        public Centralita(string nombreEmpresa): this()
+        {
+            this._razonSocial = nombreEmpresa;
+        }
+
         private Centralita()
         {
             this._listaDeLlamadas = new List<Llamada>();
-        }
-
-        public Centralita(string nombreEmpresa) : this()
-        {
-            this._razonSocial = nombreEmpresa;
         }
 
         private float CalcularGanancia(TipoLlamada tipo)
@@ -101,6 +102,12 @@ namespace CentralitaSerializacionExcepeciones
             }
         }
 
+        public string RazonSocial // agregado con respecto al ejercicio anterior
+        {
+            get { return this._razonSocial; }
+            set { this._razonSocial = value; }
+        }
+
         public List<Llamada> Llamadas //set agregado con respecto al ejercicio anterior
         {                             
             get
@@ -111,12 +118,6 @@ namespace CentralitaSerializacionExcepeciones
             {
                 this._listaDeLlamadas = value;
             }
-        }
-
-        public string RazonSocial // agregado con respecto al ejercicio anterior
-        {
-            get { return this._razonSocial; }
-            set { this._razonSocial = value; }
         }
 
         public string RutaDeArchivo // Agregado con respecto al ejercicio anterior.

@@ -22,6 +22,10 @@ namespace CentralitaSerializacionExcepeciones
             {
                 return this._duracion;
             }
+            set //agregado para ser serializado
+            {
+                this._duracion = value;
+            }
         }
 
         public string NroDestino
@@ -29,6 +33,10 @@ namespace CentralitaSerializacionExcepeciones
             get
             {
                 return this._nroDestino;
+            }
+            set //agregado para ser serializado
+            {
+                this._nroDestino = value;
             }
         }
 
@@ -38,11 +46,16 @@ namespace CentralitaSerializacionExcepeciones
             {
                 return this._nroOrigen;
             }
+            set //agregado para ser serializado
+            {
+                this._nroOrigen = value;
+            }
         }
 
         public abstract float CostoLlamada
         {
             get;
+            set;//agregado para ser serializado en los hijos
         }
 
         public Llamada()//Agregado para poder serializar

@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Centralita xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Llamadas>
-    <Llamada xsi:type="Local" />
-    <Llamada xsi:type="Provincial" />
-  </Llamadas>
   <RazonSocial>Telefonica</RazonSocial>
+  <Llamadas>
+    <Llamada xsi:type="Local">
+      <Duracion>0.3</Duracion>
+      <NroDestino>4321</NroDestino>
+      <NroOrigen>1234</NroOrigen>
+      <CostoLlamada>0.7950001</CostoLlamada>
+    </Llamada>
+    <Llamada xsi:type="Provincial">
+      <Duracion>0.21</Duracion>
+      <NroDestino>5555</NroDestino>
+      <NroOrigen>4444</NroOrigen>
+      <CostoLlamada>0.207899988</CostoLlamada>
+    </Llamada>
+    <Llamada xsi:type="Local">
+      <Duracion>0.45</Duracion>
+      <NroDestino>3333</NroDestino>
+      <NroOrigen>9999</NroOrigen>
+      <CostoLlamada>0.8955</CostoLlamada>
+    </Llamada>
+  </Llamadas>
   <RutaDeArchivo>D:\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\bin\Debug\Centralita.xml</RutaDeArchivo>
 </Centralita>
