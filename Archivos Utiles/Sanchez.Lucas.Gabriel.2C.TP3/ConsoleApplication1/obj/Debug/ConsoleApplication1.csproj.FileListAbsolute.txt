@@ -4,3 +4,6 @@ D:\Sanchez.Lucas.Gabriel.2C.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication
 D:\Sanchez.Lucas.Gabriel.2C.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 D:\Sanchez.Lucas.Gabriel.2C.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\Sanchez.Lucas.Gabriel.2C.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\Archivos Utiles\Sanchez.Lucas.Gabriel.2C.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\Archivos Utiles\Sanchez.Lucas.Gabriel.2C.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\Archivos Utiles\Sanchez.Lucas.Gabriel.2C.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
