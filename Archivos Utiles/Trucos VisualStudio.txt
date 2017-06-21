@@ -1,0 +1,3 @@
+Ordenar: ctrl + e + d
+envolver código: ctrl + k + s
+cerrar/abrir sector de código: ctrl + m + m;
