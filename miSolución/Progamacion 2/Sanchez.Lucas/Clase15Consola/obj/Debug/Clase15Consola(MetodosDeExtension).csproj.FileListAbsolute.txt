@@ -18,3 +18,13 @@ C:\Users\gustavo\Desktop\Copia trabajandoGit\miSolución\Progamacion 2\Sanchez.L
 C:\Users\gustavo\Desktop\Copia trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Consola\bin\Debug\Entidades.Externa.Sellada.dll
 C:\Users\gustavo\Desktop\Copia trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Consola\bin\Debug\Clase15Libreria.pdb
 C:\Users\gustavo\Desktop\Copia trabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Consola\obj\Debug\Clase15Consola(MetodosDeExtension).csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Consola\bin\Debug\Clase15Consola.exe.config
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Consola\bin\Debug\Clase15Consola.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Consola\bin\Debug\Clase15Consola.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Consola\bin\Debug\Clase15Libreria.dll
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Consola\bin\Debug\Entidades.Externa.dll
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Consola\bin\Debug\Entidades.Externa.Sellada.dll
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Consola\bin\Debug\Clase15Libreria.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Consola\obj\Debug\Clase15Consola(MetodosDeExtension).csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Consola\obj\Debug\Clase15Consola.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase15Consola\obj\Debug\Clase15Consola.pdb

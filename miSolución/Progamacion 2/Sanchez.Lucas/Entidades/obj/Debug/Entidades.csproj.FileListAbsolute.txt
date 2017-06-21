@@ -40,3 +40,8 @@ D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Entidades\bin\Debu
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Entidades\obj\Debug\Entidades.dll
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Entidades\bin\Debug\Entidades.dll
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Entidades\obj\Debug\Entidades.dll
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Entidades\obj\Debug\Entidades.pdb

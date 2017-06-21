@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Express 2012 for Windows Desktop
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio1", "Ejercicio1\Ejercicio1.csproj", "{32B13F2B-5120-460A-ACF5-BF5DD007F271}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase03", "Clase 3\Clase03.csproj", "{B5337FFE-A9E9-4F86-90F8-44D05FE8DDEB}"
@@ -82,6 +82,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase19BaseDeDatosLibrería", "Clase19BaseDeDatosLibrería\Clase19BaseDeDatosLibrería.csproj", "{9ABED7E7-09A0-434C-865F-AF1A8EE9BC38}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase19BaseDeDatosConsola", "Clase19BaseDeDatosConsola\Clase19BaseDeDatosConsola.csproj", "{FCB6AD6A-8D7B-4442-A543-4E2E1F971E31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio59Librería", "Ejercicio59Librería\Ejercicio59Librería.csproj", "{DF4D73EF-7F4B-47E1-907A-3B4122C2ABD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio59Consola", "Ejercicio59Consola\Ejercicio59Consola.csproj", "{A1327E3D-AE60-4E0D-8BA0-7DF1D80D0AD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -253,6 +257,14 @@ Global
 		{FCB6AD6A-8D7B-4442-A543-4E2E1F971E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCB6AD6A-8D7B-4442-A543-4E2E1F971E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCB6AD6A-8D7B-4442-A543-4E2E1F971E31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF4D73EF-7F4B-47E1-907A-3B4122C2ABD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF4D73EF-7F4B-47E1-907A-3B4122C2ABD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF4D73EF-7F4B-47E1-907A-3B4122C2ABD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF4D73EF-7F4B-47E1-907A-3B4122C2ABD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1327E3D-AE60-4E0D-8BA0-7DF1D80D0AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1327E3D-AE60-4E0D-8BA0-7DF1D80D0AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1327E3D-AE60-4E0D-8BA0-7DF1D80D0AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1327E3D-AE60-4E0D-8BA0-7DF1D80D0AD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

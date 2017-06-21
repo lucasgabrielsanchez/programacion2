@@ -33,3 +33,11 @@ D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TestClase12\bin\De
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TestClase12\obj\Debug\TestClase12Polimorfismo.csprojResolveAssemblyReference.cache
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TestClase12\obj\Debug\TestClase12.exe
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TestClase12\obj\Debug\TestClase12.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TestClase12\bin\Debug\TestClase12.exe.config
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TestClase12\bin\Debug\TestClase12.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TestClase12\bin\Debug\TestClase12.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TestClase12\bin\Debug\Clase12.dll
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TestClase12\bin\Debug\Clase12.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TestClase12\obj\Debug\TestClase12Polimorfismo.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TestClase12\obj\Debug\TestClase12.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TestClase12\obj\Debug\TestClase12.pdb

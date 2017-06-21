@@ -3,3 +3,8 @@ D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase13\bin\Debug\
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase13\obj\Debug\Clase13.dll
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase13\obj\Debug\Clase13.pdb
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase13\obj\Debug\Clase13.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase13\bin\Debug\Clase13.dll
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase13\bin\Debug\Clase13.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase13\obj\Debug\Clase13.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase13\obj\Debug\Clase13.dll
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase13\obj\Debug\Clase13.pdb

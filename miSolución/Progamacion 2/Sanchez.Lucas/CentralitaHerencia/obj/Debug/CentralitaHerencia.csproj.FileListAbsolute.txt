@@ -20,3 +20,9 @@ D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaHerencia
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb

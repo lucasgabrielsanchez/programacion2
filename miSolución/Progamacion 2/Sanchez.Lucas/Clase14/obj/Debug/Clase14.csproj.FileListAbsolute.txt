@@ -8,3 +8,8 @@ D:\CopiaTrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase14\bin\Debug\
 D:\CopiaTrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase14\obj\Debug\Clase14.csprojResolveAssemblyReference.cache
 D:\CopiaTrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase14\obj\Debug\Clase14.dll
 D:\CopiaTrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase14\obj\Debug\Clase14.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase14\bin\Debug\Clase14.dll
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase14\bin\Debug\Clase14.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase14\obj\Debug\Clase14.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase14\obj\Debug\Clase14.dll
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase14\obj\Debug\Clase14.pdb

@@ -4,3 +4,9 @@ D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatos
 D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosLibrería\obj\Debug\Clase19BaseDeDatosLibrería.csprojResolveAssemblyReference.cache
 D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosLibrería\obj\Debug\Clase19BaseDeDatosLibrería.dll
 D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosLibrería\obj\Debug\Clase19BaseDeDatosLibrería.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosLibrería\bin\Debug\Clase19BaseDeDatosLibrería.dll.config
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosLibrería\bin\Debug\Clase19BaseDeDatosLibrería.dll
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosLibrería\bin\Debug\Clase19BaseDeDatosLibrería.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosLibrería\obj\Debug\Clase19BaseDeDatosLibrería.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosLibrería\obj\Debug\Clase19BaseDeDatosLibrería.dll
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosLibrería\obj\Debug\Clase19BaseDeDatosLibrería.pdb

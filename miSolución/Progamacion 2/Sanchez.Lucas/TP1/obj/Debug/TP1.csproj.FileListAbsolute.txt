@@ -47,3 +47,8 @@ D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TP1\bin\Debug\TP1.
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TP1\obj\Debug\TP1.csprojResolveAssemblyReference.cache
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TP1\obj\Debug\TP1.dll
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TP1\obj\Debug\TP1.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP1\bin\Debug\TP1.dll
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP1\bin\Debug\TP1.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP1\obj\Debug\TP1.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP1\obj\Debug\TP1.dll
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP1\obj\Debug\TP1.pdb

@@ -17,3 +17,11 @@ D:\CopiaTrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase14Consola\bin
 D:\CopiaTrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase14Consola\bin\Debug\Clase14.dll
 D:\CopiaTrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase14Consola\bin\Debug\Clase14.pdb
 D:\CopiaTrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase14Consola\obj\Debug\Clase14Consola.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase14Consola\bin\Debug\Clase14Consola.exe.config
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase14Consola\bin\Debug\Clase14Consola.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase14Consola\bin\Debug\Clase14Consola.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase14Consola\bin\Debug\Clase14.dll
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase14Consola\bin\Debug\Clase14.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase14Consola\obj\Debug\Clase14Consola.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase14Consola\obj\Debug\Clase14Consola.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase14Consola\obj\Debug\Clase14Consola.pdb

@@ -6,3 +6,7 @@ D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TP-02Entidades\bin
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TP-02Entidades\bin\Debug\Entidades.pdb
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TP-02Entidades\obj\Debug\Entidades.dll
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TP-02Entidades\obj\Debug\Entidades.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP-02Entidades\bin\Debug\Entidades.dll
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP-02Entidades\bin\Debug\Entidades.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP-02Entidades\obj\Debug\Entidades.dll
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP-02Entidades\obj\Debug\Entidades.pdb

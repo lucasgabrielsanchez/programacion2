@@ -6,3 +6,11 @@ D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatos
 D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosConsola\obj\Debug\Clase19BaseDeDatosConsola.csprojResolveAssemblyReference.cache
 D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosConsola\obj\Debug\Clase19BaseDeDatosConsola.exe
 D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosConsola\obj\Debug\Clase19BaseDeDatosConsola.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosConsola\bin\Debug\Clase19BaseDeDatosConsola.exe.config
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosConsola\bin\Debug\Clase19BaseDeDatosConsola.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosConsola\bin\Debug\Clase19BaseDeDatosConsola.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosConsola\bin\Debug\Clase19BaseDeDatosLibrería.dll
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosConsola\bin\Debug\Clase19BaseDeDatosLibrería.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosConsola\obj\Debug\Clase19BaseDeDatosConsola.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosConsola\obj\Debug\Clase19BaseDeDatosConsola.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase19BaseDeDatosConsola\obj\Debug\Clase19BaseDeDatosConsola.pdb

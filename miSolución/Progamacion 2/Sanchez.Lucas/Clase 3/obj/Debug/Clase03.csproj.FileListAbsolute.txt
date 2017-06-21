@@ -78,3 +78,9 @@ D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase 3\bin\Debug\
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.csprojResolveAssemblyReference.cache
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.exe
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase 3\bin\Debug\Clase03.exe.config
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase 3\bin\Debug\Clase03.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase 3\bin\Debug\Clase03.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase 3\obj\Debug\Clase03.pdb

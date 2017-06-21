@@ -1,0 +1,5 @@
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio59Librería\obj\Debug\Ejercicio59Librería.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio59Librería\bin\Debug\Ejercicio59Librería.dll
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio59Librería\bin\Debug\Ejercicio59Librería.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio59Librería\obj\Debug\Ejercicio59Librería.dll
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio59Librería\obj\Debug\Ejercicio59Librería.pdb

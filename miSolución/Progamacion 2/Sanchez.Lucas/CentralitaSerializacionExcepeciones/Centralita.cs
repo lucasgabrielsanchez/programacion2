@@ -32,29 +32,45 @@ namespace CentralitaSerializacionExcepeciones
             {
                 switch (tipo)
                 {
+                    //case TipoLlamada.Local:
+                    //    if (item is Local)
+                    //    {
+                    //        total += ((Local)item).CostoLlamada;
+                    //    }
+                    //    break;
+                    //case TipoLlamada.Provincial:
+                    //    if (item is Provincial)
+                    //    {
+                    //        total += ((Provincial)item).CostoLlamada;
+                    //    }
+                    //    break;
+                    //default:
+                    //    if (item is Local)
+                    //    {
+                    //        total += ((Local)item).CostoLlamada;
+                    //    }
+
+                    //    if (item is Provincial)
+                    //    {
+                    //        total += ((Provincial)item).CostoLlamada;
+                    //    }
+                        
+                    //    break;
+
                     case TipoLlamada.Local:
                         if (item is Local)
                         {
-                            total += ((Local)item).CostoLlamada;
+                            total += item.CostoLlamada;
                         }
                         break;
                     case TipoLlamada.Provincial:
                         if (item is Provincial)
                         {
-                            total += ((Provincial)item).CostoLlamada;
+                            total += item.CostoLlamada;
                         }
                         break;
                     default:
-                        if (item is Local)
-                        {
-                            total += ((Local)item).CostoLlamada;
-                        }
-
-                        if (item is Provincial)
-                        {
-                            total += ((Provincial)item).CostoLlamada;
-                        }
-                        
+                        total += item.CostoLlamada;
                         break;
                 }
             }
@@ -222,9 +238,9 @@ namespace CentralitaSerializacionExcepeciones
             }
             catch (Exception e)
             {
-                CentralitaException CE = new CentralitaException(e.Message, this.GetType().Name, "Método Serializarse", e);
-                aux = false;
-                throw CE;
+                throw new CentralitaException("Mi mensaje: No se pudo serializar", this.GetType().Name, "Método Serializarse", e);
+                //CentralitaException ce = new CentralitaException("Mi mensaje: No se pudo serializar", e.Source.ToString(), e.TargetSite.ToString(), e);
+                //aux = false;
             }
 
             return aux;

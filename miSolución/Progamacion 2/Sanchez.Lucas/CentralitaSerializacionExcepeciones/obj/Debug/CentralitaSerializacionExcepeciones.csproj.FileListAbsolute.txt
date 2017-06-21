@@ -28,3 +28,9 @@ D:\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSeria
 D:\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\bin\Debug\CentralitaSerializacionExcepeciones.exe
 D:\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\bin\Debug\CentralitaSerializacionExcepeciones.pdb
 D:\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\obj\Debug\CentralitaSerializacionExcepeciones.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\bin\Debug\CentralitaSerializacionExcepeciones.exe.config
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\obj\Debug\CentralitaSerializacionExcepeciones.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\obj\Debug\CentralitaSerializacionExcepeciones.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\bin\Debug\CentralitaSerializacionExcepeciones.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\bin\Debug\CentralitaSerializacionExcepeciones.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\CentralitaSerializacionExcepeciones\obj\Debug\CentralitaSerializacionExcepeciones.csprojResolveAssemblyReference.cache

@@ -38,3 +38,8 @@ D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Coleccione
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\bin\Debug\Clase08.Colecciones.pdb
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\obj\Debug\Clase08.Colecciones.exe
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\obj\Debug\Clase08.Colecciones.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\bin\Debug\Clase08.Colecciones.exe.config
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\bin\Debug\Clase08.Colecciones.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\bin\Debug\Clase08.Colecciones.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\obj\Debug\Clase08.Colecciones.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase08.Colecciones\obj\Debug\Clase08.Colecciones.pdb

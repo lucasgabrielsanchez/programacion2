@@ -1,0 +1,8 @@
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio59Consola\bin\Debug\Ejercicio59Consola.exe.config
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio59Consola\bin\Debug\Ejercicio59Consola.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio59Consola\bin\Debug\Ejercicio59Consola.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio59Consola\bin\Debug\Ejercicio59Librería.dll
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio59Consola\bin\Debug\Ejercicio59Librería.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio59Consola\obj\Debug\Ejercicio59Consola.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio59Consola\obj\Debug\Ejercicio59Consola.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Ejercicio59Consola\obj\Debug\Ejercicio59Consola.pdb

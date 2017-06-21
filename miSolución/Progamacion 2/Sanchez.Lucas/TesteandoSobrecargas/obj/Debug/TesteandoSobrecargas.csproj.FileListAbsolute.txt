@@ -54,3 +54,9 @@ D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecarg
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\obj\Debug\TesteandoSobrecargas.csprojResolveAssemblyReference.cache
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\obj\Debug\TesteandoSobrecargas.exe
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\obj\Debug\TesteandoSobrecargas.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\bin\Debug\TesteandoSobrecargas.exe.config
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\bin\Debug\TesteandoSobrecargas.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\bin\Debug\TesteandoSobrecargas.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\obj\Debug\TesteandoSobrecargas.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\obj\Debug\TesteandoSobrecargas.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TesteandoSobrecargas\obj\Debug\TesteandoSobrecargas.pdb

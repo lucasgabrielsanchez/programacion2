@@ -57,3 +57,11 @@ D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TP-02\bin\Debug\TP
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TP-02\bin\Debug\Entidades.dll
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TP-02\bin\Debug\Entidades.pdb
 D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP-02\bin\Debug\TP-02.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP-02\bin\Debug\TP-02.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP-02\bin\Debug\Entidades.dll
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP-02\bin\Debug\Entidades.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP-02\obj\Debug\TP-02.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\TP-02\obj\Debug\TP-02.pdb

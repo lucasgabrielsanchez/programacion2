@@ -9,3 +9,11 @@ D:\trabajandoGitcopia\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\obj
 D:\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\bin\Debug\Clase13Consola.exe.config
 D:\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\obj\Debug\Clase13Consola.exe
 D:\trabajandoGit - copia\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\obj\Debug\Clase13Consola.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\bin\Debug\Clase13Consola.exe.config
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\bin\Debug\Clase13Consola.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\bin\Debug\Clase13Consola.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\bin\Debug\Clase13.dll
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\bin\Debug\Clase13.pdb
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\obj\Debug\Clase13Consola.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\obj\Debug\Clase13Consola.exe
+C:\Users\Isabel\Desktop\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase13Consola\obj\Debug\Clase13Consola.pdb
