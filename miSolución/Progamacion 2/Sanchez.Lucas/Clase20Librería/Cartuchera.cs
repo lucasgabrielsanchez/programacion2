@@ -8,13 +8,14 @@ using System.Xml.Serialization;
 
 namespace Clase20Librería
 {
+    [XmlType("Cartuchera")] //probando, sirve para ponerle nombres a las clases a ser serializadas.
     public class Cartuchera<T> : ISerializable
     {
         private int _capacidad;
         private List<T> _utiles;
         private string _marca;
 
-        public int Capacidad { get { return this._capacidad; } set { ;} }
+        public int Capacidad { get { return this._capacidad; }  set { this._capacidad = value;} }
 
         public Cartuchera()
         {
@@ -96,7 +97,7 @@ namespace Clase20Librería
             {
                 XmlSerializer xs = new XmlSerializer(typeof(Cartuchera<T>));
                 StreamReader sr = new StreamReader(path);
-                c = ((Cartuchera<T>)xs.Deserialize(sr));
+                c = (Cartuchera<T>)xs.Deserialize(sr);
                 sr.Close();
                 return true;
             }

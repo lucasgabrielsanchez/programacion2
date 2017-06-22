@@ -3,3 +3,8 @@ D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Librería\b
 D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Librería\obj\Debug\Clase20Librería.csprojResolveAssemblyReference.cache
 D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Librería\obj\Debug\Clase20Librería.dll
 D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Librería\obj\Debug\Clase20Librería.pdb
+C:\Users\Isabel\Desktop\COPIAtrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Librería\bin\Debug\Clase20Librería.dll
+C:\Users\Isabel\Desktop\COPIAtrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Librería\bin\Debug\Clase20Librería.pdb
+C:\Users\Isabel\Desktop\COPIAtrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Librería\obj\Debug\Clase20Librería.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\COPIAtrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Librería\obj\Debug\Clase20Librería.dll
+C:\Users\Isabel\Desktop\COPIAtrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Librería\obj\Debug\Clase20Librería.pdb

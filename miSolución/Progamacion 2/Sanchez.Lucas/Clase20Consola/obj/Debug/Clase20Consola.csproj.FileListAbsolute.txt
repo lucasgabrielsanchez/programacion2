@@ -6,3 +6,11 @@ D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Consola\bin
 D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Consola\obj\Debug\Clase20Consola.csprojResolveAssemblyReference.cache
 D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Consola\obj\Debug\Clase20Consola.exe
 D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Consola\obj\Debug\Clase20Consola.pdb
+C:\Users\Isabel\Desktop\COPIAtrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Consola\bin\Debug\Clase20Consola.exe.config
+C:\Users\Isabel\Desktop\COPIAtrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Consola\obj\Debug\Clase20Consola.exe
+C:\Users\Isabel\Desktop\COPIAtrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Consola\obj\Debug\Clase20Consola.pdb
+C:\Users\Isabel\Desktop\COPIAtrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Consola\bin\Debug\Clase20Consola.exe
+C:\Users\Isabel\Desktop\COPIAtrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Consola\bin\Debug\Clase20Consola.pdb
+C:\Users\Isabel\Desktop\COPIAtrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Consola\bin\Debug\Clase20Librería.dll
+C:\Users\Isabel\Desktop\COPIAtrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Consola\bin\Debug\Clase20Librería.pdb
+C:\Users\Isabel\Desktop\COPIAtrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Consola\obj\Debug\Clase20Consola.csprojResolveAssemblyReference.cache
