@@ -1,0 +1,15 @@
+C:\Users\Isabel\Desktop\SegundoParcial\2ParcialLibrería\obj\Debug\2ParcialLibrería.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\SegundoParcial\2ParcialLibrería\bin\Debug\2ParcialLibrería.dll
+C:\Users\Isabel\Desktop\SegundoParcial\2ParcialLibrería\bin\Debug\2ParcialLibrería.pdb
+C:\Users\Isabel\Desktop\SegundoParcial\2ParcialLibrería\obj\Debug\2ParcialLibrería.dll
+C:\Users\Isabel\Desktop\SegundoParcial\2ParcialLibrería\obj\Debug\2ParcialLibrería.pdb
+C:\Users\Isabel\Desktop\ModeloSegundoParcial\2ParcialLibrería\bin\Debug\2ParcialLibrería.dll
+C:\Users\Isabel\Desktop\ModeloSegundoParcial\2ParcialLibrería\bin\Debug\2ParcialLibrería.pdb
+C:\Users\Isabel\Desktop\ModeloSegundoParcial\2ParcialLibrería\obj\Debug\2ParcialLibrería.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\ModeloSegundoParcial\2ParcialLibrería\obj\Debug\2ParcialLibrería.dll
+C:\Users\Isabel\Desktop\ModeloSegundoParcial\2ParcialLibrería\obj\Debug\2ParcialLibrería.pdb
+C:\Users\Isabel\Desktop\(Eze)ModeloSegundoParcial\2ParcialLibrería\bin\Debug\2ParcialLibrería.dll
+C:\Users\Isabel\Desktop\(Eze)ModeloSegundoParcial\2ParcialLibrería\bin\Debug\2ParcialLibrería.pdb
+C:\Users\Isabel\Desktop\(Eze)ModeloSegundoParcial\2ParcialLibrería\obj\Debug\2ParcialLibrería.csprojResolveAssemblyReference.cache
+C:\Users\Isabel\Desktop\(Eze)ModeloSegundoParcial\2ParcialLibrería\obj\Debug\2ParcialLibrería.dll
+C:\Users\Isabel\Desktop\(Eze)ModeloSegundoParcial\2ParcialLibrería\obj\Debug\2ParcialLibrería.pdb

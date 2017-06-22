@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CajonOfPlatano xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Frutas>
+    <Platano>
+      <paisOrigen>Argentina</paisOrigen>
+    </Platano>
+    <Platano>
+      <paisOrigen>Bolivia</paisOrigen>
+    </Platano>
+  </Frutas>
+  <RutaDeArchivo>C:\Users\Isabel\Desktop\(Eze)ModeloSegundoParcial\2ParcialConsola\bin\Debug\CajónDePlátanos.xml</RutaDeArchivo>
+</CajonOfPlatano>
