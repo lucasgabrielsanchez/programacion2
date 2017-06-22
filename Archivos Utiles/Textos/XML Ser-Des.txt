@@ -1,0 +1,39 @@
+	Devuelve bool:
+
+|	public bool SerializarXML()
+	{
+            try
+            {
+                XmlSerializer xs = new XmlSerializer(typeof(Manzana));
+                StreamWriter sw = new StreamWriter(this.RutaDeArchivo);
+                xs.Serialize(sw, this);
+                sw.Close();
+                return true;
+            }
+            catch 
+            {
+                return false;
+            }
+        }
+
+
+
+	public bool Deserializar()
+        {
+            try
+            {
+                XmlSerializer xs = new XmlSerializer(this.GetType());
+                StreamReader sr = new StreamReader(this.RutaDeArchivo);
+                xs.Deserialize(sr);
+                sr.Close();
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+        }
+
+	Devuelve el objeto deserializado:
+	
+	

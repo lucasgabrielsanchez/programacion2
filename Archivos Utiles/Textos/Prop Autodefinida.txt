@@ -1,0 +1,7 @@
+//Funciona como un atributo, puedo guardarle y pedirle cosas
+
+public string RutaDeArchivo
+{
+        get;
+        set;
+}

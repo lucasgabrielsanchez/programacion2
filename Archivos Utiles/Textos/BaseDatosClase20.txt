@@ -1,0 +1,15 @@
+public static void TraerTodo()
+      {
+          SqlConnection _conexion;
+          _conexion = new SqlConnection(Properties.Settings.Default.Base);
+          SqlCommand cm = new SqlCommand("SELECT * FROM ELEMENTOS", _conexion);
+          _conexion.Open();
+          SqlDataReader dr = cm.ExecuteReader();
+          while (dr.Read() != false)
+          {
+              Console.WriteLine("{0}{1}{2}", dr[0], dr[1], dr[2]);
+          }
+          dr.Close();
+          _conexion.Close();
+
+      }
