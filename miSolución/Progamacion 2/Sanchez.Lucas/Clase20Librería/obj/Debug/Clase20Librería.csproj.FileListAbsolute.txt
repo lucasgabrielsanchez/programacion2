@@ -1,0 +1,5 @@
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Librería\bin\Debug\Clase20Librería.dll
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Librería\bin\Debug\Clase20Librería.pdb
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Librería\obj\Debug\Clase20Librería.csprojResolveAssemblyReference.cache
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Librería\obj\Debug\Clase20Librería.dll
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Librería\obj\Debug\Clase20Librería.pdb

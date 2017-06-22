@@ -1,0 +1,8 @@
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Consola\bin\Debug\Clase20Consola.exe.config
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Consola\bin\Debug\Clase20Consola.exe
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Consola\bin\Debug\Clase20Consola.pdb
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Consola\bin\Debug\Clase20Librería.dll
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Consola\bin\Debug\Clase20Librería.pdb
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Consola\obj\Debug\Clase20Consola.csprojResolveAssemblyReference.cache
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Consola\obj\Debug\Clase20Consola.exe
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase20Consola\obj\Debug\Clase20Consola.pdb
