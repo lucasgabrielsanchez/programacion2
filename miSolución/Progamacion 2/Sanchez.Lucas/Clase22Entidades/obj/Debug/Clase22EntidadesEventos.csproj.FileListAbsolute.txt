@@ -1,0 +1,5 @@
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase22Entidades\bin\Debug\Clase22Entidades.dll
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase22Entidades\bin\Debug\Clase22Entidades.pdb
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase22Entidades\obj\Debug\Clase22EntidadesEventos.csprojResolveAssemblyReference.cache
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase22Entidades\obj\Debug\Clase22Entidades.dll
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase22Entidades\obj\Debug\Clase22Entidades.pdb

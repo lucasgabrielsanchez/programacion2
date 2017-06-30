@@ -1,0 +1,11 @@
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase22Form\bin\Debug\Clase22Form.exe.config
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase22Form\bin\Debug\Clase22Form.exe
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase22Form\bin\Debug\Clase22Form.pdb
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase22Form\bin\Debug\Clase22Entidades.dll
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase22Form\bin\Debug\Clase22Entidades.pdb
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase22Form\obj\Debug\Clase22FormEventos.csprojResolveAssemblyReference.cache
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase22Form\obj\Debug\Clase22Form.Form1.resources
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase22Form\obj\Debug\Clase22Form.Properties.Resources.resources
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase22Form\obj\Debug\Clase22FormEventos.csproj.GenerateResource.Cache
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase22Form\obj\Debug\Clase22Form.exe
+D:\CopiatrabajandoGit\miSolución\Progamacion 2\Sanchez.Lucas\Clase22Form\obj\Debug\Clase22Form.pdb
